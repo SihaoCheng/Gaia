@@ -1,2459 +1,2459 @@
 #!bash
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3686/spec-3686-55268-0470.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5768/spec-5768-56017-0620.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6721/spec-6721-56398-0346.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6722/spec-6722-56431-0568.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6704/spec-6704-56388-0628.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3672/spec-3672-55484-0690.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4446/spec-4446-55589-0238.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3774/spec-3774-55244-0212.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4801/spec-4801-55653-0228.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3805/spec-3805-55269-0328.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4659/spec-4659-55587-0408.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3760/spec-3760-55268-0674.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5328/spec-5328-55982-0184.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5768/spec-5768-56017-0666.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5768/spec-5768-56017-0750.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5768/spec-5768-56017-0802.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6110/spec-6110-56279-0258.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3803/spec-3803-55513-0293.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3802/spec-3802-55528-0748.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4848/spec-4848-55955-0136.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3686/spec-3686-55268-0594.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4073/spec-4073-55663-0580.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4060/spec-4060-55359-0444.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5405/spec-5405-56010-0186.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4093/spec-4093-55475-0080.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7327/spec-7327-56715-0372.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5772/spec-5772-56003-0586.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3803/spec-3803-55513-0572.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4449/spec-4449-55544-0892.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6020/spec-6020-56087-0312.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4072/spec-4072-55362-0124.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4012/spec-4012-55327-0438.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4537/spec-4537-55806-0308.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3805/spec-3805-55269-0148.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3761/spec-3761-55272-0406.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5459/spec-5459-56035-0380.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5393/spec-5393-55946-0981.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7101/spec-7101-56659-0458.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4008/spec-4008-55356-0499.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6422/spec-6422-56328-0298.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7100/spec-7100-56636-0430.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7100/spec-7100-56636-0402.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4603/spec-4603-55999-0200.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3687/spec-3687-55269-0418.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3681/spec-3681-55243-0888.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3803/spec-3803-55513-0734.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6020/spec-6020-56087-0859.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7088/spec-7088-56657-0536.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4381/spec-4381-55824-0319.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4381/spec-4381-55824-0488.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6177/spec-6177-56268-0466.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7255/spec-7255-56597-0102.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3805/spec-3805-55269-0449.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3811/spec-3811-55538-0104.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3814/spec-3814-55535-0460.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4445/spec-4445-55869-0143.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8185/spec-8185-57431-0470.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7095/spec-7095-56625-0462.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6721/spec-6721-56398-0969.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6714/spec-6714-56447-0853.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4069/spec-4069-55365-0014.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4069/spec-4069-55365-0194.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8283/spec-8283-57064-0653.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8282/spec-8282-57041-0036.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3962/spec-3962-55660-0641.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4656/spec-4656-55828-0528.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5044/spec-5044-56186-0064.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5044/spec-5044-56186-0274.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5045/spec-5045-56181-0500.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5044/spec-5044-56186-0196.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5044/spec-5044-56186-0936.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5772/spec-5772-56003-0898.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4380/spec-4380-55857-0884.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3822/spec-3822-55544-0438.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3684/spec-3684-55246-0690.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3684/spec-3684-55246-0154.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3684/spec-3684-55246-0718.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5454/spec-5454-56015-0151.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6191/spec-6191-56248-0780.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6191/spec-6191-56248-0894.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4287/spec-4287-55483-0704.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7089/spec-7089-56661-0104.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6597/spec-6597-56304-0112.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6308/spec-6308-56215-0862.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4638/spec-4638-55956-0521.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4758/spec-4758-55682-0628.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4199/spec-4199-55481-0259.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8368/spec-8368-57431-0852.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4199/spec-4199-55481-0097.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4060/spec-4060-55359-0346.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5771/spec-5771-56011-0260.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5776/spec-5776-56010-0270.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4380/spec-4380-55857-0379.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8184/spec-8184-57426-0217.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7094/spec-7094-56660-0970.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7102/spec-7102-56666-0112.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5412/spec-5412-55981-0134.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8291/spec-8291-57391-0848.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3674/spec-3674-55182-0034.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5876/spec-5876-56042-0550.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4696/spec-4696-56354-0436.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3805/spec-3805-55269-0772.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6168/spec-6168-56187-0174.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8368/spec-8368-57431-0758.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4089/spec-4089-55470-0498.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3812/spec-3812-55513-0246.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4699/spec-4699-55684-0628.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3675/spec-3675-55183-0730.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3681/spec-3681-55243-0578.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5957/spec-5957-56210-0663.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4423/spec-4423-55889-0998.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8203/spec-8203-57428-0928.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7102/spec-7102-56666-0962.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7100/spec-7100-56636-0768.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6715/spec-6715-56449-0768.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6715/spec-6715-56449-0720.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4277/spec-4277-55506-0302.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3964/spec-3964-55648-0372.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3961/spec-3961-55654-0708.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4089/spec-4089-55470-0524.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3668/spec-3668-55478-0066.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6169/spec-6169-56193-0222.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3683/spec-3683-55178-0132.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3683/spec-3683-55178-0190.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3811/spec-3811-55538-0516.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3809/spec-3809-55533-0963.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8858/spec-8858-57450-0191.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4196/spec-4196-55478-0768.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5852/spec-5852-56034-0374.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4554/spec-4554-56193-0070.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4554/spec-4554-56193-0257.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8858/spec-8858-57450-0353.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8858/spec-8858-57450-0016.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3765/spec-3765-55508-0378.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3765/spec-3765-55508-0294.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6805/spec-6805-56442-0214.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6827/spec-6827-56428-0963.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4017/spec-4017-55329-0950.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3790/spec-3790-55208-0234.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3683/spec-3683-55178-0962.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3676/spec-3676-55186-0030.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4526/spec-4526-55559-0270.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3668/spec-3668-55478-0004.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4414/spec-4414-55882-0931.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4414/spec-4414-55882-0923.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4202/spec-4202-55445-0335.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7315/spec-7315-56685-0298.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7315/spec-7315-56685-0778.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7315/spec-7315-56685-0698.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4034/spec-4034-55635-0108.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8199/spec-8199-57428-0202.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5065/spec-5065-55739-0390.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6642/spec-6642-56396-0596.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8858/spec-8858-57450-0805.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7098/spec-7098-56661-0892.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5968/spec-5968-56356-0342.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5184/spec-5184-56352-0052.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7142/spec-7142-56567-0678.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6709/spec-6709-56429-0538.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5892/spec-5892-56035-0686.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5892/spec-5892-56035-0606.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4553/spec-4553-55584-0226.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3670/spec-3670-55480-0504.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7253/spec-7253-56598-0905.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6809/spec-6809-56454-0610.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3776/spec-3776-55209-0722.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5406/spec-5406-55955-0754.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6602/spec-6602-56571-0970.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5024/spec-5024-55854-0310.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4012/spec-4012-55327-0514.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4903/spec-4903-55927-0100.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3812/spec-3812-55513-0102.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3812/spec-3812-55513-0080.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5777/spec-5777-56280-0298.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4753/spec-4753-55674-0684.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3687/spec-3687-55269-0588.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3687/spec-3687-55269-0712.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5184/spec-5184-56352-0766.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3788/spec-3788-55246-0902.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3664/spec-3664-55245-0716.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6130/spec-6130-56214-0704.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5383/spec-5383-56013-0452.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3765/spec-3765-55508-0508.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5704/spec-5704-56187-0286.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5704/spec-5704-56187-0374.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5786/spec-5786-56251-0182.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4016/spec-4016-55632-0342.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3767/spec-3767-55214-0906.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4569/spec-4569-55631-0472.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8286/spec-8286-57062-0614.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4694/spec-4694-55649-0428.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8285/spec-8285-57048-0229.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4694/spec-4694-55649-0464.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4903/spec-4903-55927-0072.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3764/spec-3764-55514-0084.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3765/spec-3765-55508-0663.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4201/spec-4201-55443-0984.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4201/spec-4201-55443-0944.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3679/spec-3679-55209-0046.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4527/spec-4527-55590-0030.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4527/spec-4527-55590-0696.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3699/spec-3699-55517-0734.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3699/spec-3699-55517-0084.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3688/spec-3688-55273-0530.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5162/spec-5162-55893-0586.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3812/spec-3812-55513-0836.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4013/spec-4013-55629-0330.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4013/spec-4013-55629-0324.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6139/spec-6139-56192-0066.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6172/spec-6172-56269-0142.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6139/spec-6139-56192-0939.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5899/spec-5899-56038-0121.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5778/spec-5778-56328-0740.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3664/spec-3664-55245-0782.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3790/spec-3790-55208-0540.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6168/spec-6168-56187-0790.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4688/spec-4688-56008-0708.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6150/spec-6150-56187-0366.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4537/spec-4537-55806-0542.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3763/spec-3763-55508-0656.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5474/spec-5474-56036-0600.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4013/spec-4013-55629-0276.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5132/spec-5132-55858-0100.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4223/spec-4223-55451-0255.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4631/spec-4631-55617-0667.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4200/spec-4200-55499-0999.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3775/spec-3775-55207-0106.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7157/spec-7157-56946-0790.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3666/spec-3666-55185-0796.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8290/spec-8290-57364-0947.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5779/spec-5779-56338-0164.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5778/spec-5778-56328-0972.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4868/spec-4868-55895-0730.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7108/spec-7108-56686-0838.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5788/spec-5788-56255-0182.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5023/spec-5023-55858-0468.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5902/spec-5902-56042-0383.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6792/spec-6792-56432-0464.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3816/spec-3816-55272-0462.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4511/spec-4511-55602-0854.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3789/spec-3789-55269-0731.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4201/spec-4201-55443-0718.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5185/spec-5185-55978-0902.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3764/spec-3764-55514-0674.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3658/spec-3658-55205-0062.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3658/spec-3658-55205-0986.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3664/spec-3664-55245-0572.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3664/spec-3664-55245-0628.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6829/spec-6829-56453-0878.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4630/spec-4630-55623-0628.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3840/spec-3840-55574-0365.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6786/spec-6786-56448-0500.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4020/spec-4020-55332-0414.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5788/spec-5788-56255-0302.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5299/spec-5299-55927-0248.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7103/spec-7103-56661-0066.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7103/spec-7103-56661-0996.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7108/spec-7108-56686-0598.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7095/spec-7095-56625-0848.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5849/spec-5849-56033-0290.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5849/spec-5849-56033-0472.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6791/spec-6791-56429-0022.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4009/spec-4009-55648-0900.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4009/spec-4009-55648-0508.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7117/spec-7117-56685-0012.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6810/spec-6810-56447-0310.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8829/spec-8829-57446-0696.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8829/spec-8829-57446-0524.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4607/spec-4607-56248-0438.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3679/spec-3679-55209-0372.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3679/spec-3679-55209-0796.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3840/spec-3840-55574-0055.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3842/spec-3842-55565-0124.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3775/spec-3775-55207-0623.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4629/spec-4629-55630-0638.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6591/spec-6591-56535-0754.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6589/spec-6589-56536-0352.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6591/spec-6591-56535-0758.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4555/spec-4555-56189-0069.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4835/spec-4835-56016-0978.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7096/spec-7096-56683-0996.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7103/spec-7103-56661-0358.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6149/spec-6149-56194-0200.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4876/spec-4876-55679-0108.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4876/spec-4876-55679-0058.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4802/spec-4802-55652-0546.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4405/spec-4405-55854-0768.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3841/spec-3841-56016-0096.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6663/spec-6663-56338-0208.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0166.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7103/spec-7103-56661-0863.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4604/spec-4604-55983-0424.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4604/spec-4604-55983-0240.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6198/spec-6198-56211-0410.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6191/spec-6191-56248-0798.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8366/spec-8366-57432-0970.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3843/spec-3843-55278-0482.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3931/spec-3931-55350-0080.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3666/spec-3666-55185-0712.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7117/spec-7117-56685-0746.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4800/spec-4800-55674-0282.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4606/spec-4606-56223-0260.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3810/spec-3810-56015-0002.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3813/spec-3813-55532-0364.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3812/spec-3812-55513-0710.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3682/spec-3682-55244-0732.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5945/spec-5945-56213-0334.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5787/spec-5787-56254-0644.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3843/spec-3843-55278-0776.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8295/spec-8295-57401-0767.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5294/spec-5294-55922-0396.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5299/spec-5299-55927-0478.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6467/spec-6467-56270-0724.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4020/spec-4020-55332-0682.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4543/spec-4543-55888-0238.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4020/spec-4020-55332-0560.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5063/spec-5063-55831-0387.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5942/spec-5942-56210-0808.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4272/spec-4272-55509-0297.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7085/spec-7085-56625-0754.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8190/spec-8190-57448-0930.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7087/spec-7087-56637-0772.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7087/spec-7087-56637-0740.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5897/spec-5897-56042-0259.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5362/spec-5362-56017-0316.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5334/spec-5334-55928-0550.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5331/spec-5331-55976-0298.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4624/spec-4624-55654-0390.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4082/spec-4082-55367-0832.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5739/spec-5739-55976-0122.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3813/spec-3813-55532-0178.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5042/spec-5042-55856-0410.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6816/spec-6816-56444-0668.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5946/spec-5946-56101-0360.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5946/spec-5946-56101-0356.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4871/spec-4871-55928-0424.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3930/spec-3930-55332-0022.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3930/spec-3930-55332-0259.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4606/spec-4606-56223-0830.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3924/spec-3924-55332-0506.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5407/spec-5407-55926-0927.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4544/spec-4544-55855-0064.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8276/spec-8276-57067-0147.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3676/spec-3676-55186-0198.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3674/spec-3674-55182-0885.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8291/spec-8291-57391-0586.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4685/spec-4685-55657-0216.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5789/spec-5789-56246-0302.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4036/spec-4036-55330-0688.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4036/spec-4036-55330-0814.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6783/spec-6783-56284-0896.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8861/spec-8861-57459-0460.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4608/spec-4608-55973-0012.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7307/spec-7307-56720-0450.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3789/spec-3789-55269-0605.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4628/spec-4628-55646-0420.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3931/spec-3931-55350-0428.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7113/spec-7113-56711-0851.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7113/spec-7113-56711-0790.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7113/spec-7113-56711-0963.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7161/spec-7161-56625-0236.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6597/spec-6597-56304-0720.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3813/spec-3813-55532-0400.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3761/spec-3761-55272-0754.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8827/spec-8827-57444-0556.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3840/spec-3840-55574-0078.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7449/spec-7449-56740-0850.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3877/spec-3877-55365-0410.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6179/spec-6179-56221-0200.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6297/spec-6297-56218-0556.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6825/spec-6825-56717-0380.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3671/spec-3671-55483-0028.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3818/spec-3818-55532-0016.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7287/spec-7287-57042-0508.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4365/spec-4365-55539-0350.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4354/spec-4354-55810-0140.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4365/spec-4365-55539-0430.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4365/spec-4365-55539-0400.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5064/spec-5064-55864-0122.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3764/spec-3764-55514-0636.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8293/spec-8293-57361-0073.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5131/spec-5131-55835-0438.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5704/spec-5704-56187-0152.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6206/spec-6206-56245-0720.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5131/spec-5131-55835-0462.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3936/spec-3936-55302-0207.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3877/spec-3877-55365-0342.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3878/spec-3878-55361-0979.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7116/spec-7116-56681-0858.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6813/spec-6813-56419-0583.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3590/spec-3590-55201-0442.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6139/spec-6139-56192-0352.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5731/spec-5731-56363-0290.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7449/spec-7449-56740-0720.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5731/spec-5731-56363-0158.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4079/spec-4079-55363-0556.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5179/spec-5179-55957-0820.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5179/spec-5179-55957-0778.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4042/spec-4042-55626-0554.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5792/spec-5792-56269-0298.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4054/spec-4054-55358-0752.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4009/spec-4009-55648-0988.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5309/spec-5309-55929-0612.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5309/spec-5309-55929-0620.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5347/spec-5347-56008-0432.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8358/spec-8358-57451-0188.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4030/spec-4030-55634-0222.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5706/spec-5706-56165-0152.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5731/spec-5731-56363-0928.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5740/spec-5740-55998-0637.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4730/spec-4730-55630-0260.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5376/spec-5376-55987-0846.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7123/spec-7123-56726-0132.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6815/spec-6815-56419-0989.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6422/spec-6422-56328-0634.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3964/spec-3964-55648-0032.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5314/spec-5314-55952-0385.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5314/spec-5314-55952-0464.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4553/spec-4553-55584-0732.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5064/spec-5064-55864-0806.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6426/spec-6426-56334-0016.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5874/spec-5874-56039-0954.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4689/spec-4689-55656-0380.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3671/spec-3671-55483-0738.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3663/spec-3663-55176-0028.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8306/spec-8306-57419-0152.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6295/spec-6295-56536-0012.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6588/spec-6588-56536-0626.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3806/spec-3806-55505-0722.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3806/spec-3806-55505-0758.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4013/spec-4013-55629-0518.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7167/spec-7167-56604-0806.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7167/spec-7167-56604-0752.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5790/spec-5790-56271-0648.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4684/spec-4684-56226-0838.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5065/spec-5065-55739-0586.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4551/spec-4551-55569-0622.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6649/spec-6649-56364-0270.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7393/spec-7393-56749-0029.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4759/spec-4759-55649-0615.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4359/spec-4359-55533-0168.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7513/spec-7513-56780-0360.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7513/spec-7513-56780-0404.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5900/spec-5900-56043-0013.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7142/spec-7142-56567-0848.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5314/spec-5314-55952-0636.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3673/spec-3673-55178-0258.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3663/spec-3663-55176-0080.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6798/spec-6798-56485-0098.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4609/spec-4609-56251-0288.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5738/spec-5738-56002-0292.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6166/spec-6166-56181-0823.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4272/spec-4272-55509-0512.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5133/spec-5133-55860-0308.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6016/spec-6016-56073-0054.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4197/spec-4197-55479-0698.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4197/spec-4197-55479-0504.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5159/spec-5159-55856-0204.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5063/spec-5063-55831-0302.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5064/spec-5064-55864-0562.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5794/spec-5794-56282-0772.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5790/spec-5790-56271-0712.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6150/spec-6150-56187-0719.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4689/spec-4689-55656-0544.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4667/spec-4667-55868-0880.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4015/spec-4015-55624-0764.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5309/spec-5309-55929-0832.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4609/spec-4609-56251-0498.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4609/spec-4609-56251-0422.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4808/spec-4808-55705-0466.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3930/spec-3930-55332-0964.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6582/spec-6582-56274-0558.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4782/spec-4782-55654-0139.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5948/spec-5948-56107-0229.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6166/spec-6166-56181-0734.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6165/spec-6165-56208-0404.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4683/spec-4683-55924-0198.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4198/spec-4198-55480-0565.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4196/spec-4196-55478-0956.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6016/spec-6016-56073-0246.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3665/spec-3665-55247-0106.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3673/spec-3673-55178-0796.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3665/spec-3665-55247-0078.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6802/spec-6802-56456-0288.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7292/spec-7292-56709-0732.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4786/spec-4786-55651-0518.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5107/spec-5107-55940-0810.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5694/spec-5694-56213-0172.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4781/spec-4781-55653-0132.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5063/spec-5063-55831-0628.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7287/spec-7287-57042-0173.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6660/spec-6660-56370-0592.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8182/spec-8182-56993-0388.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5891/spec-5891-56034-0946.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5795/spec-5795-56298-0976.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8280/spec-8280-57061-0644.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5346/spec-5346-55955-0628.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7393/spec-7393-56749-0160.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5112/spec-5112-55895-0490.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5109/spec-5109-55892-0964.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5109/spec-5109-55892-0180.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5109/spec-5109-55892-0360.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5043/spec-5043-56187-0188.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4766/spec-4766-55677-0478.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4538/spec-4538-55860-0052.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4537/spec-4537-55806-0623.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4197/spec-4197-55479-0758.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3786/spec-3786-55563-0022.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3772/spec-3772-55277-0214.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5854/spec-5854-56035-0632.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3851/spec-3851-55302-0214.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3959/spec-3959-55679-0702.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3959/spec-3959-55679-0676.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7131/spec-7131-56570-0474.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4781/spec-4781-55653-0328.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0321.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4645/spec-4645-55623-0592.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3825/spec-3825-55533-0930.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3823/spec-3823-55534-0940.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4526/spec-4526-55559-0004.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5112/spec-5112-55895-0578.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7046/spec-7046-56568-0530.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3773/spec-3773-55240-0482.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6293/spec-6293-56561-0256.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0161.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0046.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0162.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6293/spec-6293-56561-0264.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5064/spec-5064-55864-0868.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4090/spec-4090-55500-0746.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4426/spec-4426-56105-0438.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4534/spec-4534-55863-0066.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4534/spec-4534-55863-0132.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4780/spec-4780-55682-0440.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4781/spec-4781-55653-0028.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3787/spec-3787-55565-0642.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6190/spec-6190-56210-0056.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5299/spec-5299-55927-0868.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5299/spec-5299-55927-0834.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0023.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8404/spec-8404-57481-0674.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4781/spec-4781-55653-0918.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4760/spec-4760-55656-0102.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3772/spec-3772-55277-0492.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5159/spec-5159-55856-0010.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6288/spec-6288-56192-0500.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4419/spec-4419-55867-0646.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4541/spec-4541-55882-0432.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4605/spec-4605-55971-0182.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8830/spec-8830-57447-0154.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5695/spec-5695-56191-0488.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5694/spec-5694-56213-0092.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8278/spec-8278-56990-0523.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4526/spec-4526-55559-0116.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7673/spec-7673-57329-0220.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6285/spec-6285-56248-0832.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0329.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5296/spec-5296-55922-0114.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5299/spec-5299-55927-0508.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5299/spec-5299-55927-0524.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6649/spec-6649-56364-0050.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7089/spec-7089-56661-0364.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8189/spec-8189-57448-0726.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8189/spec-8189-57448-0472.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4049/spec-4049-55591-0211.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4053/spec-4053-55591-0124.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8404/spec-8404-57481-0509.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5306/spec-5306-55926-0516.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0320.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0886.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4316/spec-4316-55505-0170.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4877/spec-4877-55707-0954.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6184/spec-6184-56267-0393.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5777/spec-5777-56280-0748.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6986/spec-6986-56717-0616.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5732/spec-5732-56326-0986.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6296/spec-6296-56219-0956.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6657/spec-6657-56366-0096.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4965/spec-4965-55721-0514.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6173/spec-6173-56238-0056.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4661/spec-4661-55614-0318.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4966/spec-4966-55712-0744.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4402/spec-4402-55514-0422.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4402/spec-4402-55514-0482.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4776/spec-4776-55652-0509.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6825/spec-6825-56717-0676.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8829/spec-8829-57446-0363.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4607/spec-4607-56248-0220.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6647/spec-6647-56390-0778.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5857/spec-5857-56092-0222.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3788/spec-3788-55246-0584.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4392/spec-4392-55833-0336.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4392/spec-4392-55833-0470.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5324/spec-5324-55947-0162.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8358/spec-8358-57451-0592.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6678/spec-6678-56401-0282.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7378/spec-7378-56715-0362.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3655/spec-3655-55240-0488.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3655/spec-3655-55240-0738.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3655/spec-3655-55240-0778.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3800/spec-3800-55486-0222.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5693/spec-5693-56246-0401.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5368/spec-5368-56001-0482.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5125/spec-5125-55863-0184.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4508/spec-4508-55600-0503.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5949/spec-5949-56096-0284.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5949/spec-5949-56096-0178.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4502/spec-4502-55569-0218.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3780/spec-3780-55240-0436.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3835/spec-3835-55570-0010.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3800/spec-3800-55486-0400.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4096/spec-4096-55501-0804.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4091/spec-4091-55498-0966.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5797/spec-5797-56273-0968.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4856/spec-4856-55712-0282.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7031/spec-7031-56449-0958.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6719/spec-6719-56390-0428.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5894/spec-5894-56039-0362.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5894/spec-5894-56039-0204.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6294/spec-6294-56482-0271.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4783/spec-4783-55652-0926.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6294/spec-6294-56482-0065.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5873/spec-5873-56035-0852.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5386/spec-5386-56008-0888.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3958/spec-3958-55329-0948.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4722/spec-4722-55735-0214.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5115/spec-5115-55885-0590.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5693/spec-5693-56246-0406.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3837/spec-3837-55572-0508.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3659/spec-3659-55181-0600.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6589/spec-6589-56536-0655.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7325/spec-7325-56717-0280.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7328/spec-7328-56715-0856.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4970/spec-4970-56039-0724.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4394/spec-4394-55924-0504.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3655/spec-3655-55240-0595.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5410/spec-5410-56016-0214.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7405/spec-7405-57134-0723.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5699/spec-5699-55953-0178.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4360/spec-4360-55539-0476.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5693/spec-5693-56246-0314.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6718/spec-6718-56398-0954.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7253/spec-7253-56598-0635.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7327/spec-7327-56715-0996.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5736/spec-5736-55984-0466.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3835/spec-3835-55570-0386.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4885/spec-4885-55735-0360.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4417/spec-4417-55829-0334.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3767/spec-3767-55214-0562.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4502/spec-4502-55569-0236.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7325/spec-7325-56717-0788.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5160/spec-5160-55895-0512.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3696/spec-3696-55277-0008.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3696/spec-3696-55277-0214.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7679/spec-7679-57367-0148.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4658/spec-4658-55592-0424.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5303/spec-5303-55980-0108.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3658/spec-3658-55205-0522.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3835/spec-3835-55570-0660.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7145/spec-7145-56567-0835.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4316/spec-4316-55505-0538.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4863/spec-4863-55688-0462.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6591/spec-6591-56535-0524.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5699/spec-5699-55953-0966.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5693/spec-5693-56246-0756.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4481/spec-4481-55630-0258.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4487/spec-4487-55866-0884.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3696/spec-3696-55277-0738.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4505/spec-4505-55603-0374.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7390/spec-7390-57130-0174.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6425/spec-6425-56298-0555.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0356.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3833/spec-3833-55290-0224.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3771/spec-3771-55544-0586.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7610/spec-7610-56980-0858.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4873/spec-4873-55926-0094.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4877/spec-4877-55707-0658.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6678/spec-6678-56401-0784.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5429/spec-5429-55979-0076.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4490/spec-4490-55629-0957.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0140.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7380/spec-7380-56753-0911.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5335/spec-5335-56013-0180.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3670/spec-3670-55480-0672.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3692/spec-3692-55186-0586.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3693/spec-3693-55208-0498.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4206/spec-4206-55471-0156.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6683/spec-6683-56416-0330.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6677/spec-6677-56385-0570.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7112/spec-7112-56666-0061.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4209/spec-4209-55478-0404.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3945/spec-3945-55648-0204.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6426/spec-6426-56334-0624.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6031/spec-6031-56091-0046.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5870/spec-5870-56065-0082.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4574/spec-4574-55621-0920.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3693/spec-3693-55208-0679.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3821/spec-3821-55535-0578.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4538/spec-4538-55860-0008.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6975/spec-6975-56720-0446.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7579/spec-7579-56954-0152.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0528.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5948/spec-5948-56107-0022.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4732/spec-4732-55648-0248.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3670/spec-3670-55480-0918.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6036/spec-6036-56093-0314.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6648/spec-6648-56383-0556.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7596/spec-7596-56945-0990.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6171/spec-6171-56311-0189.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4355/spec-4355-55533-0730.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4355/spec-4355-55533-0710.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4207/spec-4207-55475-0912.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4543/spec-4543-55888-0922.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4885/spec-4885-55735-0814.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5211/spec-5211-56002-0222.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3941/spec-3941-55321-0745.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0218.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4084/spec-4084-55447-0094.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5878/spec-5878-56033-0634.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4903/spec-4903-55927-0968.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5289/spec-5289-55893-0406.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5803/spec-5803-56272-0894.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6823/spec-6823-56687-0852.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4852/spec-4852-55689-0604.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4571/spec-4571-55629-0934.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5858/spec-5858-56063-0356.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5858/spec-5858-56063-0358.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6700/spec-6700-56384-0656.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4481/spec-4481-55630-0380.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0814.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0338.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6963/spec-6963-56724-0451.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0699.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4504/spec-4504-55571-0754.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4504/spec-4504-55571-0813.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4764/spec-4764-55646-0684.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3945/spec-3945-55648-0726.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8854/spec-8854-57450-0921.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4567/spec-4567-55589-0697.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5447/spec-5447-55958-0426.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5442/spec-5442-55978-0132.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4469/spec-4469-55863-0047.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5435/spec-5435-55982-0360.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6031/spec-6031-56091-0860.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6047/spec-6047-56098-0617.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4470/spec-4470-55587-0200.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7455/spec-7455-56768-0503.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6963/spec-6963-56724-0309.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6963/spec-6963-56724-0238.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5442/spec-5442-55978-0820.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5886/spec-5886-56034-0350.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5043/spec-5043-56187-0468.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0120.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5862/spec-5862-56045-0694.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0898.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4497/spec-4497-55564-0788.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5948/spec-5948-56107-0107.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7579/spec-7579-56954-0839.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6963/spec-6963-56724-0492.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3949/spec-3949-55650-0984.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6037/spec-6037-56106-0948.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6606/spec-6606-56596-0161.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5779/spec-5779-56338-0551.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5781/spec-5781-56337-0214.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4087/spec-4087-55449-0738.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4470/spec-4470-55587-0840.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6198/spec-6198-56211-0140.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3938/spec-3938-55328-0973.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3945/spec-3945-55648-0998.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3938/spec-3938-55328-0810.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5851/spec-5851-56075-0200.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4492/spec-4492-55565-0812.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6026/spec-6026-56071-0568.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5456/spec-5456-55980-0250.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4174/spec-4174-55659-0560.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7382/spec-7382-56991-0999.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5160/spec-5160-55895-0833.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7319/spec-7319-56962-0152.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7389/spec-7389-56769-0950.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8167/spec-8167-57071-0303.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6025/spec-6025-56098-0204.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5285/spec-5285-55946-0390.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5450/spec-5450-55986-0126.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4466/spec-4466-55857-0440.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4466/spec-4466-55857-0524.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7149/spec-7149-56593-0866.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3937/spec-3937-55352-0438.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3937/spec-3937-55352-0518.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6161/spec-6161-56238-0828.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6145/spec-6145-56266-1000.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7303/spec-7303-57013-0864.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7294/spec-7294-56739-0172.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8162/spec-8162-56993-0238.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4174/spec-4174-55659-0786.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4178/spec-4178-55653-0973.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6964/spec-6964-56748-0991.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0252.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4539/spec-4539-55865-0925.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4541/spec-4541-55882-0593.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3810/spec-3810-56015-0482.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3810/spec-3810-56015-0734.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4468/spec-4468-55894-0025.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4468/spec-4468-55894-0114.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5781/spec-5781-56337-0266.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5285/spec-5285-55946-0703.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6181/spec-6181-56239-0092.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4504/spec-4504-55571-0996.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4496/spec-4496-55544-0164.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6685/spec-6685-56412-0398.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7120/spec-7120-56720-0014.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3948/spec-3948-55331-0719.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0428.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4203/spec-4203-55447-0866.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6039/spec-6039-56099-0490.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8489/spec-8489-57483-0233.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4567/spec-4567-55589-0822.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4566/spec-4566-55630-0228.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4562/spec-4562-55570-0518.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4562/spec-4562-55570-0500.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4215/spec-4215-55471-0312.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7167/spec-7167-56604-0030.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4871/spec-4871-55928-0024.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4084/spec-4084-55447-0318.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4467/spec-4467-55894-0886.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0635.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6706/spec-6706-56385-0856.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4531/spec-4531-55563-0089.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5044/spec-5044-56186-0942.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6684/spec-6684-56412-0229.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3810/spec-3810-55531-0642.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7255/spec-7255-56597-0833.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3810/spec-3810-56015-0494.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3809/spec-3809-55533-0256.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4487/spec-4487-55866-0324.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5441/spec-5441-56017-0848.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4503/spec-4503-55563-0546.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4498/spec-4498-55615-0188.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4854/spec-4854-55685-0766.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4470/spec-4470-55587-0626.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3944/spec-3944-55660-0040.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8166/spec-8166-57130-0882.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7673/spec-7673-57329-0360.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6286/spec-6286-56301-0353.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5869/spec-5869-56064-0716.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5889/spec-5889-56038-0014.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4081/spec-4081-55365-0038.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6025/spec-6025-56098-0448.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6299/spec-6299-56478-0168.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4177/spec-4177-55688-0060.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8172/spec-8172-57423-0242.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4542/spec-4542-55833-0116.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4542/spec-4542-55833-0078.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5389/spec-5389-55953-0933.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5389/spec-5389-55953-0158.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6302/spec-6302-56565-0206.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6589/spec-6589-56536-0906.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5125/spec-5125-55863-0755.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5125/spec-5125-55863-0650.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5431/spec-5431-56011-0078.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3943/spec-3943-55336-0370.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4498/spec-4498-55615-0212.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5291/spec-5291-55947-0098.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7033/spec-7033-56565-0766.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7120/spec-7120-56720-0356.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4510/spec-4510-55559-0020.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6683/spec-6683-56416-0272.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5892/spec-5892-56035-0077.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3657/spec-3657-55244-0040.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3953/spec-3953-55322-0312.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5441/spec-5441-56017-0544.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5898/spec-5898-56045-0460.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5991/spec-5991-56076-0460.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5989/spec-5989-56312-0392.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5990/spec-5990-56066-0628.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4177/spec-4177-55688-0832.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4485/spec-4485-55836-0185.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8296/spec-8296-57375-0879.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8296/spec-8296-57375-0836.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8296/spec-8296-57375-0850.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6583/spec-6583-56566-0306.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6584/spec-6584-56568-0212.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6319/spec-6319-56452-0129.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6734/spec-6734-56386-0197.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5352/spec-5352-56269-0732.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5898/spec-5898-56045-0278.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6690/spec-6690-56416-0408.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5889/spec-5889-56038-0373.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6700/spec-6700-56384-0066.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6700/spec-6700-56384-1000.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4461/spec-4461-55888-0346.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5425/spec-5425-56003-0148.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5132/spec-5132-55858-0796.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5440/spec-5440-55983-0714.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4462/spec-4462-55600-0376.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7143/spec-7143-56572-0560.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5285/spec-5285-55946-0782.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6013/spec-6013-56074-0230.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6013/spec-6013-56074-0045.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4562/spec-4562-55570-0691.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4290/spec-4290-55527-0573.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4505/spec-4505-55603-0384.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4496/spec-4496-55544-0637.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5372/spec-5372-55978-0294.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4029/spec-4029-55618-0169.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6299/spec-6299-56478-0970.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5364/spec-5364-56000-0808.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5445/spec-5445-55987-0790.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5445/spec-5445-55987-0530.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5392/spec-5392-56010-0664.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5425/spec-5425-56003-0415.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4210/spec-4210-55444-0099.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4210/spec-4210-55444-0056.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5448/spec-5448-56013-0084.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6698/spec-6698-56637-0260.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5726/spec-5726-56626-0342.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5726/spec-5726-56626-0774.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5418/spec-5418-56037-0076.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3951/spec-3951-55681-0672.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4177/spec-4177-55688-0535.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0866.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8302/spec-8302-57389-0854.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0760.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0712.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0704.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5425/spec-5425-56003-0638.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6291/spec-6291-56209-0552.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6299/spec-6299-56478-0794.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3657/spec-3657-55244-0198.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3657/spec-3657-55244-0476.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6727/spec-6727-56369-0436.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4421/spec-4421-55858-0620.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4455/spec-4455-55539-0211.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6119/spec-6119-56181-0952.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5806/spec-5806-56310-0186.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6698/spec-6698-56637-0433.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5810/spec-5810-56358-0620.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8823/spec-8823-57446-0843.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4416/spec-4416-55828-0066.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4416/spec-4416-55828-0007.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6164/spec-6164-56181-0730.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4181/spec-4181-55685-0888.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5291/spec-5291-55947-0646.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5287/spec-5287-55952-0999.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6013/spec-6013-56074-0326.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4294/spec-4294-55500-0534.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6291/spec-6291-56209-0068.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4462/spec-4462-55600-0718.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3657/spec-3657-55244-0906.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3809/spec-3809-55533-0466.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4501/spec-4501-55590-0294.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6697/spec-6697-56419-0368.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6690/spec-6690-56416-0919.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5394/spec-5394-56001-0794.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5394/spec-5394-56001-0866.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4091/spec-4091-55498-0588.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6283/spec-6283-56239-0633.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3956/spec-3956-55656-0234.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3956/spec-3956-55656-0222.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6734/spec-6734-56386-0628.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5343/spec-5343-55999-0840.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5343/spec-5343-55999-0200.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5443/spec-5443-56010-0738.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6291/spec-6291-56209-0031.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3657/spec-3657-55244-0710.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4180/spec-4180-55679-0030.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4549/spec-4549-55556-0018.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4210/spec-4210-55444-0220.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3655/spec-3655-55240-0945.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4540/spec-4540-55863-0586.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8163/spec-8163-57049-0617.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8301/spec-8301-57390-0258.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4565/spec-4565-55591-0034.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4792/spec-4792-55925-0726.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5439/spec-5439-56045-0490.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5434/spec-5434-56033-0898.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5434/spec-5434-56033-0075.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4176/spec-4176-55682-0412.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4505/spec-4505-55603-0877.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3809/spec-3809-55533-0738.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4469/spec-4469-55863-0732.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7092/spec-7092-56683-0092.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8230/spec-8230-57430-0216.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8300/spec-8300-57391-0854.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4636/spec-4636-55945-0276.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5373/spec-5373-56010-0571.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5941/spec-5941-56193-0606.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4180/spec-4180-55679-0026.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7653/spec-7653-57306-0116.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4096/spec-4096-55501-0544.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4499/spec-4499-55572-0142.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6825/spec-6825-56717-0629.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6307/spec-6307-56205-0541.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6290/spec-6290-56238-0192.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4176/spec-4176-55682-0314.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4397/spec-4397-55921-0118.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6017/spec-6017-56075-0240.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5042/spec-5042-55856-0580.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4497/spec-4497-55564-0296.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4292/spec-4292-55532-0004.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6736/spec-6736-56366-0928.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8491/spec-8491-57488-0905.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6706/spec-6706-56385-0972.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6699/spec-6699-56411-0582.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6160/spec-6160-56190-0182.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5324/spec-5324-55947-0590.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4447/spec-4447-55542-0580.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5428/spec-5428-56029-0752.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5428/spec-5428-56029-0782.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5371/spec-5371-55976-0512.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6014/spec-6014-56072-0519.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8171/spec-8171-57135-0190.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6278/spec-6278-56266-0158.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4446/spec-4446-55589-0714.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6017/spec-6017-56075-0538.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4497/spec-4497-55564-0187.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3955/spec-3955-55678-0456.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4726/spec-4726-55712-0436.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5793/spec-5793-56337-0472.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4501/spec-4501-55590-0192.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4280/spec-4280-55503-0444.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4501/spec-4501-55590-0896.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4092/spec-4092-55477-0924.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4561/spec-4561-55614-0788.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8302/spec-8302-57389-0508.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4693/spec-4693-55632-0246.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8854/spec-8854-57450-0223.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8854/spec-8854-57450-0229.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4455/spec-4455-55539-0034.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6707/spec-6707-56383-0031.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6705/spec-6705-56636-0510.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4375/spec-4375-55889-0154.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4693/spec-4693-55632-0030.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5724/spec-5724-56364-0374.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5724/spec-5724-56364-0456.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0462.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4485/spec-4485-55836-0938.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4485/spec-4485-55836-0894.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3955/spec-3955-55678-0572.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3962/spec-3962-55660-0231.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5125/spec-5125-55863-0965.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5126/spec-5126-55923-0444.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4466/spec-4466-55857-0924.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7159/spec-7159-56603-0282.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7385/spec-7385-56710-0250.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5016/spec-5016-55709-0596.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7093/spec-7093-56657-0639.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7168/spec-7168-56625-0994.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5429/spec-5429-55979-0598.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4018/spec-4018-55622-0226.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4539/spec-4539-55865-0908.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4176/spec-4176-55682-0986.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6119/spec-6119-56181-0240.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4375/spec-4375-55889-0641.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3961/spec-3961-55654-0244.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3955/spec-3955-55678-0592.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3949/spec-3949-55650-0546.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7092/spec-7092-56683-0270.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8434/spec-8434-57484-0063.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4175/spec-4175-55680-0297.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4694/spec-4694-55649-0968.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4087/spec-4087-55449-0626.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4463/spec-4463-55868-0492.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3757/spec-3757-55508-0249.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8854/spec-8854-57450-0435.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4176/spec-4176-55682-0812.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4176/spec-4176-55682-0914.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4280/spec-4280-55503-0872.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0720.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0712.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6588/spec-6588-56536-0038.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4081/spec-4081-55365-0696.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5389/spec-5389-55953-0671.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7086/spec-7086-56658-0654.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7085/spec-7085-56625-0980.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5426/spec-5426-55987-0342.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6008/spec-6008-56093-0381.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4576/spec-4576-55592-0608.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4642/spec-4642-55926-0214.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3826/spec-3826-55563-0804.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3826/spec-3826-55563-0962.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3826/spec-3826-55563-0654.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0808.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5453/spec-5453-56001-0330.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7609/spec-7609-56959-0437.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5854/spec-5854-56035-0148.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7092/spec-7092-56683-0916.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4807/spec-4807-55687-0020.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4442/spec-4442-55532-0299.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3758/spec-3758-55506-0746.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4494/spec-4494-55569-0174.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4351/spec-4351-55538-0792.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3937/spec-3937-55352-0834.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5987/spec-5987-56339-0590.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5984/spec-5984-56337-0068.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4393/spec-4393-55944-0676.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4175/spec-4175-55680-0760.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4175/spec-4175-55680-0891.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5453/spec-5453-56001-0436.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3780/spec-3780-55240-0736.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4463/spec-4463-55868-0140.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4574/spec-4574-55621-0510.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4576/spec-4576-55592-0662.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0782.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4508/spec-4508-55600-0108.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6008/spec-6008-56093-0400.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6286/spec-6286-56301-0683.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4085/spec-4085-55452-0410.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4032/spec-4032-55333-0664.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4642/spec-4642-55926-0770.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4640/spec-4640-55927-0203.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8832/spec-8832-57445-0467.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4442/spec-4442-55532-0788.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8858/spec-8858-57450-0202.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6658/spec-6658-56606-0400.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3936/spec-3936-55302-0586.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4531/spec-4531-55563-0947.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4763/spec-4763-55869-0372.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4062/spec-4062-55383-0728.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6727/spec-6727-56369-0714.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8401/spec-8401-57482-0107.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4463/spec-4463-55868-0738.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8168/spec-8168-56992-0654.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6694/spec-6694-56386-0459.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6658/spec-6658-56606-0733.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4085/spec-4085-55452-0074.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3785/spec-3785-55273-0172.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5950/spec-5950-56211-0128.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6299/spec-6299-56478-0639.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3662/spec-3662-55182-0356.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3936/spec-3936-55302-0628.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3936/spec-3936-55302-0689.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4034/spec-4034-55635-0992.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5345/spec-5345-56010-0126.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3668/spec-3668-55478-0758.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8167/spec-8167-57071-0734.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8282/spec-8282-57041-0328.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5417/spec-5417-55978-0802.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4176/spec-4176-55682-0604.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4463/spec-4463-55868-0850.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3770/spec-3770-55234-0472.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8831/spec-8831-57448-0310.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4642/spec-4642-55926-0590.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5284/spec-5284-55866-0562.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5284/spec-5284-55866-0786.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4576/spec-4576-55592-0856.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5875/spec-5875-56038-0566.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5874/spec-5874-56039-0134.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4807/spec-4807-55687-0798.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4641/spec-4641-55947-0024.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6124/spec-6124-56211-0375.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6668/spec-6668-56605-0818.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4498/spec-4498-55615-0667.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4549/spec-4549-55556-0066.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4549/spec-4549-55556-0076.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4404/spec-4404-55513-0628.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4183/spec-4183-55447-0362.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4061/spec-4061-55362-0761.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6151/spec-6151-56265-0625.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6151/spec-6151-56265-0674.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6176/spec-6176-56264-0486.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3760/spec-3760-55268-0446.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3762/spec-3762-55507-0738.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4497/spec-4497-55564-0518.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4323/spec-4323-55884-0375.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5411/spec-5411-55953-0855.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4418/spec-4418-55862-0855.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6197/spec-6197-56191-0744.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4085/spec-4085-55452-0275.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3785/spec-3785-55273-0524.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4183/spec-4183-55447-0496.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4458/spec-4458-55536-0034.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5864/spec-5864-56047-0294.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6299/spec-6299-56478-0666.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6725/spec-6725-56390-0988.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8401/spec-8401-57482-0340.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4408/spec-4408-55888-0256.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3682/spec-3682-55244-0468.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3763/spec-3763-55508-0448.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3760/spec-3760-55268-0350.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3760/spec-3760-55268-0352.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6163/spec-6163-56219-0798.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4455/spec-4455-55539-0692.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5420/spec-5420-56009-0812.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4493/spec-4493-55585-0246.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4571/spec-4571-55629-0654.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4575/spec-4575-55590-0754.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5461/spec-5461-56018-0661.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6703/spec-6703-56636-0494.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4386/spec-4386-55540-0375.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7881/spec-7881-57282-0052.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6497/spec-6497-56329-0122.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5360/spec-5360-55983-0034.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8181/spec-8181-57073-0564.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4640/spec-4640-55927-0750.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6308/spec-6308-56215-0578.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7613/spec-7613-56988-0440.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3941/spec-3941-55321-0490.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3760/spec-3760-55268-0802.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3757/spec-3757-55508-0310.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3757/spec-3757-55508-0332.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7455/spec-7455-56768-0263.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4471/spec-4471-55617-0564.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6157/spec-6157-56238-0112.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5419/spec-5419-55983-0216.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3821/spec-3821-55535-0625.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6166/spec-6166-56181-0446.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6707/spec-6707-56383-0192.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3757/spec-3757-55508-0604.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4415/spec-4415-55831-0184.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4321/spec-4321-55504-0024.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3942/spec-3942-55338-0662.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0050.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4449/spec-4449-55544-0114.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5422/spec-5422-55986-0848.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3809/spec-3809-55533-0504.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4789/spec-4789-55923-0826.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4764/spec-4764-55646-0082.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4789/spec-4789-55923-0640.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5453/spec-5453-56001-0544.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5455/spec-5455-56009-0330.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8299/spec-8299-57346-0525.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4077/spec-4077-55361-0564.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4303/spec-4303-55508-0562.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6704/spec-6704-56388-0368.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6187/spec-6187-56244-0994.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5724/spec-5724-56364-0816.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3781/spec-3781-55243-0912.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6279/spec-6279-56243-0016.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4466/spec-4466-55857-0104.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7455/spec-7455-56768-0739.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4457/spec-4457-55858-0949.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4024/spec-4024-55646-0690.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4024/spec-4024-55646-0898.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7085/spec-7085-56625-0422.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8173/spec-8173-57375-0792.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3941/spec-3941-55321-0142.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3962/spec-3962-55660-0428.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4276/spec-4276-55505-0662.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7094/spec-7094-56660-0444.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4181/spec-4181-55685-0304.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4207/spec-4207-55475-0102.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5446/spec-5446-56014-0146.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8831/spec-8831-57448-0539.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8297/spec-8297-57416-0172.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4695/spec-4695-55957-0463.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4078/spec-4078-55358-0112.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8282/spec-8282-57041-0578.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8282/spec-8282-57041-0570.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3779/spec-3779-55222-0940.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4007/spec-4007-55327-0008.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4450/spec-4450-55540-0506.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5773/spec-5773-56009-0022.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8178/spec-8178-57428-0477.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7094/spec-7094-56660-0660.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5451/spec-5451-56010-0778.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4456/spec-4456-55537-0328.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3934/spec-3934-55336-0472.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3779/spec-3779-55222-0881.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4486/spec-4486-55588-0784.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8175/spec-8175-57039-0798.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6687/spec-6687-56602-0397.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6687/spec-6687-56602-0298.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6668/spec-6668-56605-0662.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6196/spec-6196-56189-0781.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4862/spec-4862-55685-0856.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5888/spec-5888-56041-0724.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5888/spec-5888-56041-0514.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5888/spec-5888-56041-0494.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4852/spec-4852-55689-0323.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5296/spec-5296-55922-0196.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5296/spec-5296-55922-0454.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5165/spec-5165-56063-0348.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5731/spec-5731-56363-0310.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5731/spec-5731-56363-0802.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4418/spec-4418-55862-0876.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6460/spec-6460-56334-0356.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4208/spec-4208-55476-0978.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5972/spec-5972-56334-0505.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4456/spec-4456-55537-0220.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4456/spec-4456-55537-0108.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5493/spec-5493-56009-0614.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6514/spec-6514-56487-0246.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3801/spec-3801-55509-0068.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3801/spec-3801-55509-0636.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7682/spec-7682-57415-0503.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7682/spec-7682-57415-0584.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4979/spec-4979-56045-0654.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6519/spec-6519-56566-0546.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5864/spec-5864-56047-0952.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3849/spec-3849-55274-0046.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5296/spec-5296-55922-0890.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5298/spec-5298-55979-0232.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6453/spec-6453-56365-0480.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5315/spec-5315-55978-0330.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6508/spec-6508-56535-0917.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3804/spec-3804-55267-0650.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5286/spec-5286-56225-0200.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7084/spec-7084-56624-0960.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5164/spec-5164-56067-0133.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5165/spec-5165-56063-0474.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4415/spec-4415-55831-0720.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4405/spec-4405-55854-0866.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4405/spec-4405-55854-0900.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6451/spec-6451-56358-0665.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6451/spec-6451-56358-0628.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6450/spec-6450-56331-0052.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5452/spec-5452-55957-0054.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7592/spec-7592-56947-0123.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7847/spec-7847-57012-0282.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3804/spec-3804-55267-0033.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3804/spec-3804-55267-0550.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5313/spec-5313-55973-0596.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3784/spec-3784-55269-0282.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7253/spec-7253-56598-0270.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7253/spec-7253-56598-0339.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5891/spec-5891-56034-0586.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5040/spec-5040-56243-0482.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5044/spec-5044-56186-0538.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6274/spec-6274-56550-0164.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5702/spec-5702-56221-0272.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5212/spec-5212-56016-0932.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3872/spec-3872-55382-0944.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4228/spec-4228-55484-0288.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8790/spec-8790-57363-0456.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3927/spec-3927-55333-0044.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6464/spec-6464-56309-0352.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7457/spec-7457-56746-0970.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8857/spec-8857-57449-0567.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5158/spec-5158-55913-0066.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5698/spec-5698-55947-0006.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7141/spec-7141-56565-0488.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7141/spec-7141-56565-0722.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4496/spec-4496-55544-0778.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3783/spec-3783-55246-0106.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5992/spec-5992-56066-0970.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3879/spec-3879-55244-0540.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3871/spec-3871-55307-0068.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3766/spec-3766-55213-0262.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4443/spec-4443-55539-0256.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4005/spec-4005-55325-0059.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4191/spec-4191-55444-0412.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5114/spec-5114-55883-0518.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5207/spec-5207-56018-0260.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4895/spec-4895-55708-0702.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6258/spec-6258-56238-0320.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6255/spec-6255-56240-0896.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6258/spec-6258-56238-0292.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7305/spec-7305-56991-0021.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7516/spec-7516-56782-0754.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5207/spec-5207-56018-0450.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5207/spec-5207-56018-0460.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5207/spec-5207-56018-0035.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6050/spec-6050-56089-0620.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3868/spec-3868-55360-0476.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7142/spec-7142-56567-0966.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3830/spec-3830-55574-0456.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6258/spec-6258-56238-0722.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3781/spec-3781-55243-0370.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6252/spec-6252-56248-0890.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3871/spec-3871-55307-0726.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4773/spec-4773-55648-0624.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4858/spec-4858-55686-0082.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6465/spec-6465-56279-0609.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6465/spec-6465-56279-0589.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6463/spec-6463-56340-0369.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6511/spec-6511-56540-0590.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5058/spec-5058-56208-0994.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5483/spec-5483-56017-0951.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3831/spec-3831-55543-0024.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6304/spec-6304-56570-0768.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8435/spec-8435-57487-0114.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3752/spec-3752-55236-0550.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4634/spec-4634-55626-0448.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6526/spec-6526-56543-0006.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3875/spec-3875-55364-0024.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4007/spec-4007-55327-0548.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7059/spec-7059-56592-0892.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6475/spec-6475-56337-0834.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7301/spec-7301-56746-0788.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7376/spec-7376-56749-0169.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5491/spec-5491-56034-0314.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6595/spec-6595-56569-0646.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6402/spec-6402-56334-0258.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4856/spec-4856-55712-0446.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3818/spec-3818-55532-0498.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6256/spec-6256-56323-0188.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5292/spec-5292-55926-0586.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5176/spec-5176-56221-0220.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5292/spec-5292-55926-0544.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4996/spec-4996-55720-0990.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3875/spec-3875-55364-0952.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3695/spec-3695-55212-0012.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7302/spec-7302-57012-0297.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3697/spec-3697-55290-0678.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6279/spec-6279-56243-0406.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5347/spec-5347-56008-0646.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5491/spec-5491-56034-0294.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3876/spec-3876-55245-0062.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3831/spec-3831-55543-0916.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3861/spec-3861-55274-0361.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7056/spec-7056-56577-0166.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7059/spec-7059-56592-0652.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5697/spec-5697-55944-0882.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5955/spec-5955-56456-0516.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5167/spec-5167-56066-0875.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8198/spec-8198-57374-0298.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8197/spec-8197-57064-0718.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4891/spec-4891-55736-0556.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6742/spec-6742-56415-0770.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6742/spec-6742-56415-0530.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7027/spec-7027-56448-0172.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5205/spec-5205-56040-0378.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4780/spec-4780-55682-0826.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6178/spec-6178-56213-0434.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3828/spec-3828-55539-0124.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3783/spec-3783-55246-0549.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5062/spec-5062-55803-0108.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3829/spec-3829-55300-0306.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3768/spec-3768-55564-0700.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4720/spec-4720-55691-0454.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8856/spec-8856-57453-0929.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6507/spec-6507-56478-0106.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6881/spec-6881-56540-0904.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6279/spec-6279-56243-0494.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5205/spec-5205-56040-0600.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6261/spec-6261-56219-0668.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6261/spec-6261-56219-0624.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4890/spec-4890-55741-0439.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7285/spec-7285-56991-0493.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4856/spec-4856-55712-0812.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6498/spec-6498-56565-0402.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4306/spec-4306-55584-0696.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4228/spec-4228-55484-0273.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4997/spec-4997-55738-0554.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5205/spec-5205-56040-0974.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6413/spec-6413-56336-0562.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4664/spec-4664-56186-0750.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4668/spec-4668-56211-0502.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5131/spec-5131-55835-0060.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7183/spec-7183-56658-0432.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5332/spec-5332-55981-0850.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3861/spec-3861-55274-0690.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6279/spec-6279-56243-0657.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7665/spec-7665-57328-0841.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5481/spec-5481-55983-0082.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4856/spec-4856-55712-0755.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4191/spec-4191-55444-0660.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6507/spec-6507-56478-0276.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5138/spec-5138-55830-0740.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7083/spec-7083-56722-0076.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7097/spec-7097-56667-0780.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6490/spec-6490-56330-0802.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4723/spec-4723-56033-0652.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7027/spec-7027-56448-0417.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6054/spec-6054-56089-0814.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5324/spec-5324-55947-0404.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7610/spec-7610-56980-0792.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7610/spec-7610-56980-0612.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6592/spec-6592-56535-0100.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7610/spec-7610-56980-0832.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6474/spec-6474-56362-0316.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8853/spec-8853-57459-0544.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7277/spec-7277-56748-0794.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6596/spec-6596-56331-0208.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5813/spec-5813-56363-0496.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5736/spec-5736-55984-0082.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5484/spec-5484-56039-0232.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4443/spec-4443-55539-0936.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6054/spec-6054-56089-0954.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4417/spec-4417-55829-0678.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7135/spec-7135-56564-0894.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3869/spec-3869-55273-0924.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3869/spec-3869-55273-0972.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5880/spec-5880-56042-0834.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4633/spec-4633-55620-0452.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4633/spec-4633-55620-0353.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4860/spec-4860-55691-0994.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3985/spec-3985-55320-0580.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7665/spec-7665-57328-0903.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6513/spec-6513-56543-0024.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6880/spec-6880-56543-0777.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5176/spec-5176-56221-0520.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6138/spec-6138-56598-0318.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5473/spec-5473-56033-0921.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8194/spec-8194-57401-0378.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5719/spec-5719-56014-0114.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8194/spec-8194-57401-0238.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3754/spec-3754-55488-0432.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6048/spec-6048-56072-0748.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5735/spec-5735-55980-0270.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6263/spec-6263-56279-0246.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6262/spec-6262-56267-0574.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3939/spec-3939-55633-0048.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4856/spec-4856-55712-0668.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4715/spec-4715-55653-0060.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4715/spec-4715-55653-0130.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6443/spec-6443-56367-0040.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5472/spec-5472-55976-0418.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7133/spec-7133-56567-0246.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6276/spec-6276-56269-0139.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3754/spec-3754-55488-0516.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3848/spec-3848-55647-0130.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6263/spec-6263-56279-0334.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6262/spec-6262-56267-0558.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4716/spec-4716-55738-0107.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4720/spec-4720-55691-0160.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5355/spec-5355-56009-0204.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5982/spec-5982-56074-0522.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4889/spec-4889-55709-0288.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4720/spec-4720-55691-0741.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3927/spec-3927-55333-0412.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3933/spec-3933-55335-0574.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4489/spec-4489-55545-0458.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6041/spec-6041-56102-0462.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7849/spec-7849-56980-0727.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7053/spec-7053-56564-0410.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3767/spec-3767-55214-0488.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3853/spec-3853-55268-0200.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3986/spec-3986-55329-0054.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7664/spec-7664-57367-0780.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4889/spec-4889-55709-0090.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4889/spec-4889-55709-0104.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6596/spec-6596-56331-0482.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3848/spec-3848-55647-0918.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3847/spec-3847-55588-0166.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5201/spec-5201-55832-0412.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4273/spec-4273-55506-0860.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5154/spec-5154-55864-0195.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4882/spec-4882-55721-0124.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5476/spec-5476-55986-0114.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4489/spec-4489-55545-0877.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6273/spec-6273-56243-0808.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7304/spec-7304-56745-0021.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5732/spec-5732-56326-0772.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5732/spec-5732-56326-0682.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5349/spec-5349-55929-0852.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5349/spec-5349-55929-0080.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3986/spec-3986-55329-0076.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6472/spec-6472-56362-0736.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6136/spec-6136-56206-0198.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6143/spec-6143-56267-0582.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6263/spec-6263-56279-0776.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6597/spec-6597-56304-0246.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6263/spec-6263-56279-0810.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6263/spec-6263-56279-0642.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6197/spec-6197-56191-0888.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6445/spec-6445-56366-0386.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6452/spec-6452-56366-0186.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4879/spec-4879-55706-0787.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3698/spec-3698-55501-0170.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3698/spec-3698-55501-0022.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7281/spec-7281-57007-0214.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5476/spec-5476-55986-0802.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5201/spec-5201-55832-0394.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6482/spec-6482-56358-0548.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3694/spec-3694-55209-0836.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3694/spec-3694-55209-0896.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5157/spec-5157-55923-0392.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6452/spec-6452-56366-0766.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4484/spec-4484-55565-0254.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6040/spec-6040-56101-0954.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4980/spec-4980-56048-0120.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3986/spec-3986-55329-0388.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6438/spec-6438-56367-0137.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5040/spec-5040-56243-0256.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6513/spec-6513-56543-0359.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3822/spec-3822-55544-0904.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5046/spec-5046-56243-0250.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4885/spec-4885-55735-0626.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6451/spec-6451-56358-0006.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6448/spec-6448-56365-0366.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3926/spec-3926-55327-0864.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3926/spec-3926-55327-0738.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3926/spec-3926-55327-0479.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5482/spec-5482-56017-0690.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3986/spec-3986-55329-0824.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6474/spec-6474-56362-0920.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3845/spec-3845-55323-0310.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5962/spec-5962-56265-0391.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5972/spec-5972-56334-0116.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5209/spec-5209-56002-0368.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4648/spec-4648-55673-0346.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8874/spec-8874-57426-0176.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4615/spec-4615-55618-0680.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3974/spec-3974-55320-0362.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4422/spec-4422-55533-0444.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5335/spec-5335-56013-0472.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5484/spec-5484-56039-0478.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5484/spec-5484-56039-0426.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6042/spec-6042-56101-0192.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6042/spec-6042-56101-0786.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4038/spec-4038-55363-0202.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6442/spec-6442-56369-0344.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6143/spec-6143-56267-0047.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5204/spec-5204-56036-0976.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5978/spec-5978-56073-0567.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5168/spec-5168-56035-0064.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5168/spec-5168-56035-0060.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3844/spec-3844-55321-0176.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3845/spec-3845-55323-0488.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5050/spec-5050-56215-0804.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8846/spec-8846-57428-0134.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4878/spec-4878-55710-0759.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6517/spec-6517-56563-0336.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3977/spec-3977-55335-0612.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7856/spec-7856-57260-0377.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6402/spec-6402-56334-0920.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6483/spec-6483-56341-0442.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8874/spec-8874-57426-0599.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8874/spec-8874-57426-0594.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8198/spec-8198-57374-0852.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5712/spec-5712-56602-0723.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8198/spec-8198-57374-0210.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5882/spec-5882-56029-0802.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5785/spec-5785-56269-0170.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4535/spec-4535-55860-0039.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4535/spec-4535-55860-0036.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4535/spec-4535-55860-0842.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4534/spec-4534-55863-0248.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5475/spec-5475-56011-0394.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3651/spec-3651-55247-0499.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7049/spec-7049-56570-0594.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5204/spec-5204-56036-0626.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4901/spec-4901-55711-0032.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7838/spec-7838-56958-0623.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7454/spec-7454-56751-0399.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7375/spec-7375-56981-0058.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5151/spec-5151-56567-0200.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3974/spec-3974-55320-0560.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4196/spec-4196-55478-0444.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6267/spec-6267-56279-0374.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6444/spec-6444-56339-0732.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5893/spec-5893-56034-0258.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4901/spec-4901-55711-0732.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4901/spec-4901-55711-0852.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3819/spec-3819-55540-0426.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3779/spec-3779-55222-0062.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3779/spec-3779-55222-0090.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6730/spec-6730-56425-0242.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6033/spec-6033-56069-0502.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7516/spec-7516-56782-0780.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6305/spec-6305-56563-0074.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6305/spec-6305-56563-0049.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5479/spec-5479-56016-0600.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4070/spec-4070-55681-0450.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6161/spec-6161-56238-0352.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6161/spec-6161-56238-0232.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4035/spec-4035-55383-0132.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6501/spec-6501-56563-0316.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7447/spec-7447-56746-0625.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6501/spec-6501-56563-0406.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3779/spec-3779-55222-0306.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5045/spec-5045-56181-0280.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4631/spec-4631-55617-0696.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4071/spec-4071-55660-0186.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4626/spec-4626-55647-0396.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4195/spec-4195-55452-0266.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7256/spec-7256-56658-0169.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6518/spec-6518-56567-0920.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5156/spec-5156-55925-0222.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7277/spec-7277-56748-0154.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5156/spec-5156-55925-0725.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6601/spec-6601-56335-0094.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6459/spec-6459-56273-0006.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6458/spec-6458-56274-0618.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6518/spec-6518-56567-0796.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3878/spec-3878-55361-0654.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5861/spec-5861-56069-0660.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4847/spec-4847-55931-0411.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3972/spec-3972-55589-0042.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5462/spec-5462-55978-0886.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5371/spec-5371-55976-0258.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4035/spec-4035-55383-0998.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4718/spec-4718-56014-0304.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4035/spec-4035-55383-0394.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4035/spec-4035-55383-0436.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8819/spec-8819-57450-0284.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6145/spec-6145-56266-0384.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3878/spec-3878-55361-0822.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4617/spec-4617-55617-0582.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5062/spec-5062-55803-0385.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4231/spec-4231-55444-0824.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5174/spec-5174-56047-0288.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5145/spec-5145-55835-0466.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5310/spec-5310-55983-0560.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6513/spec-6513-56543-0918.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5998/spec-5998-56087-0168.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5963/spec-5963-56191-0750.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5351/spec-5351-55952-0326.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4621/spec-4621-55649-0456.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4621/spec-4621-55649-0696.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3968/spec-3968-55590-0358.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6463/spec-6463-56340-0662.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3878/spec-3878-55361-0588.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4035/spec-4035-55383-0918.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4750/spec-4750-55630-0696.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4035/spec-4035-55383-0874.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5312/spec-5312-56001-0472.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4651/spec-4651-56008-0608.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6513/spec-6513-56543-0788.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5041/spec-5041-55749-0158.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3694/spec-3694-55209-0748.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5460/spec-5460-56000-0020.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6430/spec-6430-56299-0388.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3869/spec-3869-55273-0250.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5307/spec-5307-55998-0066.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5196/spec-5196-55831-0244.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6323/spec-6323-56189-0904.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6321/spec-6321-56449-0646.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6153/spec-6153-56164-0216.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5732/spec-5732-56326-0786.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7295/spec-7295-57067-0268.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4406/spec-4406-55858-0876.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5168/spec-5168-56035-0732.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5174/spec-5174-56047-0107.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4615/spec-4615-55618-0937.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3968/spec-3968-55590-0920.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7614/spec-7614-57307-0326.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4072/spec-4072-55362-0045.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5196/spec-5196-55831-0146.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6594/spec-6594-56272-0092.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4066/spec-4066-55444-0598.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3983/spec-3983-55603-0800.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4653/spec-4653-55622-0616.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4227/spec-4227-55481-0937.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8866/spec-8866-57457-0108.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8866/spec-8866-57457-0123.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3965/spec-3965-55302-0090.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3969/spec-3969-55307-0378.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3965/spec-3965-55302-0022.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5398/spec-5398-56011-0648.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5767/spec-5767-56245-0161.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5168/spec-5168-56035-0814.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3818/spec-3818-55532-0536.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7083/spec-7083-56722-0200.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7111/spec-7111-56741-0665.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7111/spec-7111-56741-0570.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7135/spec-7135-56564-0253.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4069/spec-4069-55365-0082.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6490/spec-6490-56330-0027.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6455/spec-6455-56370-0214.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4886/spec-4886-55737-0770.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4756/spec-4756-55631-0158.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5196/spec-5196-55831-0278.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4066/spec-4066-55444-0630.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5995/spec-5995-56093-0686.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3965/spec-3965-55302-0982.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5975/spec-5975-56334-0862.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4876/spec-4876-55679-0652.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4875/spec-4875-55677-0130.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7167/spec-7167-56604-0376.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5794/spec-5794-56282-0066.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6455/spec-6455-56370-0656.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3818/spec-3818-55532-0790.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3818/spec-3818-55532-0826.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5337/spec-5337-55987-0493.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5167/spec-5167-56066-0598.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5167/spec-5167-56066-0348.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5166/spec-5166-56065-0046.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5167/spec-5167-56066-0342.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6508/spec-6508-56535-0732.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4075/spec-4075-55352-0101.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7129/spec-7129-56569-0871.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6018/spec-6018-56067-0688.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5998/spec-5998-56087-0936.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5998/spec-5998-56087-0064.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5206/spec-5206-56033-0479.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4193/spec-4193-55476-0842.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3969/spec-3969-55307-0158.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3973/spec-3973-55323-0590.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5317/spec-5317-56000-0506.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5725/spec-5725-56625-0032.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3609/spec-3609-55201-0385.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7834/spec-7834-56979-0844.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4405/spec-4405-55854-0714.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6153/spec-6153-56164-0054.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3972/spec-3972-55589-0080.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4495/spec-4495-55566-0293.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6018/spec-6018-56067-0836.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4075/spec-4075-55352-0062.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6320/spec-6320-56453-0840.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3813/spec-3813-55532-0074.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4698/spec-4698-55623-0154.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7142/spec-7142-56567-0204.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3922/spec-3922-55333-0921.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4072/spec-4072-55362-0516.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4456/spec-4456-55537-0555.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8494/spec-8494-57104-0423.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4075/spec-4075-55352-0802.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5153/spec-5153-56577-0528.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7373/spec-7373-56990-0472.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6166/spec-6166-56181-0540.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5036/spec-5036-55751-0213.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5719/spec-5719-56014-0896.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3873/spec-3873-55277-0414.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5800/spec-5800-56279-0880.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5800/spec-5800-56279-0870.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4194/spec-4194-55450-0694.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3606/spec-3606-55182-0751.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4271/spec-4271-55507-0460.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6603/spec-6603-56567-0422.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6477/spec-6477-56365-0982.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8494/spec-8494-57104-0683.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8494/spec-8494-57104-0648.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3969/spec-3969-55307-0874.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6428/spec-6428-56279-0282.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6428/spec-6428-56279-0174.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5995/spec-5995-56093-0958.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5813/spec-5813-56363-0666.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5733/spec-5733-56575-0018.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4766/spec-4766-55677-0262.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4412/spec-4412-55912-0620.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4412/spec-4412-55912-0396.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3867/spec-3867-55652-0216.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5480/spec-5480-56001-0352.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5480/spec-5480-56001-0116.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3970/spec-3970-55591-0129.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5416/spec-5416-56002-0971.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6598/spec-6598-56574-0392.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4708/spec-4708-55704-0430.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5799/spec-5799-56325-0095.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4050/spec-4050-55599-0634.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4050/spec-4050-55599-0517.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7864/spec-7864-56979-0391.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4218/spec-4218-55479-0010.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4219/spec-4219-55480-0580.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3816/spec-3816-55272-0648.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3816/spec-3816-55272-0684.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3814/spec-3814-55535-0008.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7447/spec-7447-56746-0814.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4703/spec-4703-55617-0438.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6142/spec-6142-56219-0001.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6148/spec-6148-56209-0558.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6143/spec-6143-56267-0280.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6143/spec-6143-56267-0932.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6598/spec-6598-56574-0659.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4065/spec-4065-55368-0194.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4534/spec-4534-55863-0466.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6152/spec-6152-56164-0240.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6152/spec-6152-56164-0030.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4494/spec-4494-55569-0616.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4724/spec-4724-55742-0924.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7576/spec-7576-56948-0399.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3814/spec-3814-55535-0950.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4749/spec-4749-55633-0722.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8390/spec-8390-57485-0443.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3866/spec-3866-55623-0120.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5068/spec-5068-55749-0860.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5156/spec-5156-55925-0786.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5156/spec-5156-55925-0850.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3978/spec-3978-55330-0242.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5369/spec-5369-56272-0740.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5366/spec-5366-55958-0181.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3923/spec-3923-55325-0124.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6002/spec-6002-56104-0590.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5483/spec-5483-56017-0257.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5483/spec-5483-56017-0375.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3924/spec-3924-55332-0332.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7141/spec-7141-56565-0173.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6507/spec-6507-56478-0622.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6280/spec-6280-56570-0242.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6601/spec-6601-56335-0941.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5969/spec-5969-56069-0888.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3822/spec-3822-55544-0604.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3866/spec-3866-55623-0680.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3866/spec-3866-55623-0614.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4495/spec-4495-55566-0838.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4490/spec-4490-55629-0218.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4732/spec-4732-55648-0270.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6589/spec-6589-56536-0332.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6591/spec-6591-56535-0192.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6671/spec-6671-56388-0074.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6800/spec-6800-56399-0136.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6711/spec-6711-56388-0702.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6604/spec-6604-56337-0480.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5976/spec-5976-56356-0234.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7184/spec-7184-56629-0676.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4733/spec-4733-55649-0266.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3923/spec-3923-55325-0206.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4901/spec-4901-55711-0866.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4807/spec-4807-55687-0466.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7280/spec-7280-56709-0082.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6003/spec-6003-56311-0258.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6146/spec-6146-56265-0566.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6146/spec-6146-56265-0787.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5481/spec-5481-55983-0898.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6800/spec-6800-56399-0144.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4497/spec-4497-55564-0806.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6740/spec-6740-56401-0222.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4495/spec-4495-55566-0505.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4799/spec-4799-55656-0236.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4305/spec-4305-55509-0609.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6681/spec-6681-56419-0135.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7254/spec-7254-56625-0153.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3863/spec-3863-55280-0138.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4319/spec-4319-55507-0298.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3978/spec-3978-55330-0924.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5008/spec-5008-55744-0698.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3817/spec-3817-55277-0710.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3817/spec-3817-55277-0846.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5404/spec-5404-56013-0525.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4466/spec-4466-55857-0799.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4974/spec-4974-56038-0506.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6003/spec-6003-56311-0400.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6717/spec-6717-56397-0721.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6638/spec-6638-56370-0432.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5293/spec-5293-55953-0236.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6630/spec-6630-56358-0602.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6280/spec-6280-56570-0991.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6280/spec-6280-56570-0042.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4973/spec-4973-56042-0409.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4235/spec-4235-55451-0850.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7833/spec-7833-57286-0166.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7374/spec-7374-56751-0914.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4238/spec-4238-55455-0226.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4239/spec-4239-55458-0274.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3745/spec-3745-55234-0465.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4238/spec-4238-55455-0438.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5996/spec-5996-56096-0390.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5344/spec-5344-55924-0684.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5346/spec-5346-55955-0004.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4190/spec-4190-55686-0230.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7254/spec-7254-56625-0858.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4772/spec-4772-55654-0128.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6738/spec-6738-56424-0870.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4731/spec-4731-55656-0974.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4070/spec-4070-55681-0148.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6280/spec-6280-56570-0912.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7626/spec-7626-56934-0370.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3862/spec-3862-55276-0891.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6000/spec-6000-56102-0278.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5293/spec-5293-55953-0650.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4995/spec-4995-55739-0250.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6058/spec-6058-56090-0496.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5708/spec-5708-56605-0917.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4058/spec-4058-55358-0665.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6782/spec-6782-56576-0225.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3650/spec-3650-55244-0222.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3650/spec-3650-55244-0046.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6112/spec-6112-56191-0870.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5715/spec-5715-56657-0288.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5729/spec-5729-56598-0192.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7694/spec-7694-57359-0174.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6739/spec-6739-56393-0814.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6676/spec-6676-56389-0732.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8219/spec-8219-57429-0282.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6688/spec-6688-56412-0156.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8229/spec-8229-57430-0090.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4995/spec-4995-55739-0222.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4713/spec-4713-56044-0844.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5847/spec-5847-56037-0908.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7445/spec-7445-56720-0047.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7445/spec-7445-56720-0053.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8192/spec-8192-57348-0937.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4319/spec-4319-55507-0905.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6740/spec-6740-56401-0976.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6740/spec-6740-56401-0888.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8872/spec-8872-57422-0868.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8229/spec-8229-57430-0886.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4768/spec-4768-55944-0104.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5974/spec-5974-56314-0382.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4953/spec-4953-55749-0483.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4707/spec-4707-55653-0816.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6801/spec-6801-56487-0992.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6797/spec-6797-56426-0678.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8846/spec-8846-57428-0724.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6740/spec-6740-56401-0664.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4458/spec-4458-55536-0542.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4459/spec-4459-55533-0772.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3855/spec-3855-55268-0094.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7256/spec-7256-56658-0740.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4976/spec-4976-56046-0260.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6682/spec-6682-56390-0766.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8228/spec-8228-57423-0932.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8219/spec-8219-57429-0552.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8219/spec-8219-57429-0514.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6641/spec-6641-56383-0688.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3590/spec-3590-55201-0726.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8193/spec-8193-57333-0674.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8865/spec-8865-57426-0458.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5171/spec-5171-56038-0886.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6801/spec-6801-56487-0446.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7083/spec-7083-56722-0782.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7105/spec-7105-56740-0666.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4219/spec-4219-55480-0718.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6622/spec-6622-56365-0618.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6006/spec-6006-56105-0212.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6005/spec-6005-56090-0670.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6002/spec-6002-56104-0980.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6156/spec-6156-56239-0834.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5300/spec-5300-55982-0366.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5298/spec-5298-55979-0548.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5009/spec-5009-55707-0838.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6641/spec-6641-56383-0560.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4989/spec-4989-56069-0084.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6053/spec-6053-56091-0449.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5166/spec-5166-56065-0666.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4964/spec-4964-55749-0704.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6803/spec-6803-56402-0114.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4653/spec-4653-55622-0412.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4239/spec-4239-55458-0560.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8410/spec-8410-57481-0242.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6314/spec-6314-56191-0550.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6313/spec-6313-56460-0299.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4459/spec-4459-55533-0598.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8388/spec-8388-57488-0734.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4702/spec-4702-55618-0958.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4956/spec-4956-55737-0136.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8390/spec-8390-57485-0970.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6142/spec-6142-56219-0102.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5120/spec-5120-55895-0470.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6837/spec-6837-56442-0350.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6716/spec-6716-56401-0210.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6723/spec-6723-56428-0931.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5375/spec-5375-55973-0298.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5191/spec-5191-56065-0536.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5113/spec-5113-55924-0232.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3859/spec-3859-55246-0098.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4992/spec-4992-55723-0974.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5973/spec-5973-56067-0432.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3928/spec-3928-55331-0569.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3934/spec-3934-55336-0988.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4410/spec-4410-56187-0812.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4456/spec-4456-55537-0012.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6316/spec-6316-56483-0713.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6313/spec-6313-56460-0538.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5003/spec-5003-55715-0790.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7039/spec-7039-56572-0886.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6803/spec-6803-56402-0120.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6803/spec-6803-56402-0862.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5200/spec-5200-56091-0804.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6159/spec-6159-56214-0101.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6006/spec-6006-56105-0278.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6006/spec-6006-56105-0274.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6006/spec-6006-56105-0348.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8390/spec-8390-57485-0621.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6635/spec-6635-56370-0334.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4611/spec-4611-55603-0883.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6716/spec-6716-56401-0928.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6623/spec-6623-56367-0571.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6061/spec-6061-56076-0311.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6061/spec-6061-56076-0860.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3976/spec-3976-55302-0638.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4855/spec-4855-55926-0376.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4726/spec-4726-55712-0064.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3689/spec-3689-55180-0826.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3689/spec-3689-55180-0880.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4714/spec-4714-56041-0236.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3859/spec-3859-55246-0228.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7114/spec-7114-56748-0973.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5134/spec-5134-55868-0352.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6754/spec-6754-56414-0918.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6758/spec-6758-56415-0375.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5976/spec-5976-56356-0818.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8410/spec-8410-57481-0609.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5290/spec-5290-55862-0042.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5707/spec-5707-56269-0670.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5057/spec-5057-56209-0038.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5057/spec-5057-56209-0072.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7822/spec-7822-57041-0636.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4240/spec-4240-55455-1000.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4850/spec-4850-55929-0394.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6052/spec-6052-56092-0182.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3587/spec-3587-55182-0154.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6758/spec-6758-56415-0914.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6795/spec-6795-56425-0574.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6712/spec-6712-56421-0728.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4372/spec-4372-55541-0326.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8380/spec-8380-57520-0270.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4743/spec-4743-55645-0657.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6709/spec-6709-56429-0074.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4855/spec-4855-55926-0986.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5198/spec-5198-55823-0844.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6625/spec-6625-56386-0556.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7409/spec-7409-56809-0304.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4704/spec-4704-55681-0692.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4706/spec-4706-55705-0506.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5189/spec-5189-56074-0945.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5010/spec-5010-55748-0922.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5157/spec-5157-55923-0276.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4451/spec-4451-55537-0318.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6144/spec-6144-56237-0658.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6009/spec-6009-56313-0104.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4855/spec-4855-55926-0712.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6828/spec-6828-56430-0280.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6828/spec-6828-56430-0780.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4713/spec-4713-56044-0230.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5199/spec-5199-56067-0650.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8195/spec-8195-57391-0008.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5043/spec-5043-56187-0705.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6142/spec-6142-56219-0274.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4726/spec-4726-55712-0632.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5719/spec-5719-56014-0524.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5057/spec-5057-56209-0276.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5198/spec-5198-55823-0511.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6748/spec-6748-56371-0312.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4174/spec-4174-55659-0686.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5707/spec-5707-56269-0565.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6831/spec-6831-56426-0940.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5195/spec-5195-56048-0320.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5002/spec-5002-55710-0106.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6142/spec-6142-56219-0534.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4190/spec-4190-55686-0384.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6044/spec-6044-56090-0072.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6045/spec-6045-56072-0782.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7256/spec-7256-56658-0783.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6310/spec-6310-56455-0758.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6310/spec-6310-56455-0723.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3858/spec-3858-55273-0420.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3590/spec-3590-55201-0904.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4224/spec-4224-55481-0588.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5057/spec-5057-56209-0428.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5042/spec-5042-55856-0642.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5037/spec-5037-55823-0248.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3825/spec-3825-55533-0980.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5005/spec-5005-55751-0254.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5005/spec-5005-55751-0052.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6831/spec-6831-56426-0031.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6748/spec-6748-56371-0838.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7407/spec-7407-56772-0620.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5002/spec-5002-55710-0383.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4612/spec-4612-55590-0838.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5720/spec-5720-56602-0668.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5010/spec-5010-55748-0672.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8375/spec-8375-57520-0157.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7416/spec-7416-56810-0414.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6628/spec-6628-56366-0692.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6495/spec-6495-56339-0886.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6495/spec-6495-56339-0932.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4989/spec-4989-55743-0340.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5193/spec-5193-56066-0602.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5190/spec-5190-56077-0215.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5005/spec-5005-55751-0062.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5111/spec-5111-55840-0698.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6177/spec-6177-56268-0907.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6177/spec-6177-56268-0870.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6177/spec-6177-56268-0224.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6112/spec-6112-56191-0532.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6059/spec-6059-56093-0120.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6744/spec-6744-56399-0490.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6744/spec-6744-56399-0492.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4218/spec-4218-55479-0940.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7864/spec-7864-56979-0804.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4399/spec-4399-55811-0005.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5114/spec-5114-55883-0410.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5292/spec-5292-55926-0402.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5292/spec-5292-55926-0376.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5187/spec-5187-56074-0446.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6789/spec-6789-56401-0885.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6789/spec-6789-56401-0730.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4989/spec-4989-56069-0394.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6494/spec-6494-56363-0100.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6836/spec-6836-56443-0642.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6829/spec-6829-56453-0404.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5057/spec-5057-56209-0944.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7255/spec-7255-56597-0541.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4242/spec-4242-55476-0913.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6060/spec-6060-56074-0706.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7428/spec-7428-56781-0579.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7429/spec-7429-56740-0836.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6749/spec-6749-56370-0470.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7429/spec-7429-56740-0970.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5109/spec-5109-55892-0091.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5108/spec-5108-55888-0807.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5108/spec-5108-55888-0892.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5193/spec-5193-56066-0860.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5005/spec-5005-55751-0452.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6410/spec-6410-56336-0584.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4956/spec-4956-55737-0636.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4960/spec-4960-55747-0224.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6318/spec-6318-56186-0044.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6030/spec-6030-56097-0830.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6404/spec-6404-56330-0824.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5148/spec-5148-56220-0184.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6829/spec-6829-56453-0858.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3755/spec-3755-55504-0696.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3753/spec-3753-55486-0058.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5126/spec-5126-55923-0540.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4373/spec-4373-55811-0848.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6621/spec-6621-56366-0882.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5297/spec-5297-55913-0140.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6027/spec-6027-56103-0652.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7283/spec-7283-57063-0481.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7283/spec-7283-57063-0690.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7286/spec-7286-57096-0970.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7286/spec-7286-57096-0962.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5112/spec-5112-55895-0140.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6743/spec-6743-56385-0560.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6061/spec-6061-56076-0398.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6037/spec-6037-56104-0084.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7111/spec-7111-56741-0676.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6148/spec-6148-56209-0820.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7114/spec-7114-56748-0506.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7114/spec-7114-56748-0716.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6840/spec-6840-56685-0056.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3756/spec-3756-55505-0278.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7416/spec-7416-56810-0509.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5192/spec-5192-56066-0906.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6052/spec-6052-56092-0454.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6309/spec-6309-56485-0342.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6312/spec-6312-56487-0430.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5005/spec-5005-55751-0856.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7408/spec-7408-56780-0589.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5301/spec-5301-55987-0376.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7845/spec-7845-56980-0941.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4961/spec-4961-55719-0434.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5112/spec-5112-55895-0726.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5112/spec-5112-55895-0838.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5112/spec-5112-55895-0796.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5715/spec-5715-56657-0715.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6967/spec-6967-56447-0436.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6967/spec-6967-56447-0292.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7117/spec-7117-56685-0376.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6829/spec-6829-56453-0550.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6037/spec-6037-56106-0170.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7087/spec-7087-56637-0800.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4309/spec-4309-55528-0231.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5005/spec-5005-55751-0724.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5292/spec-5292-55926-0186.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6319/spec-6319-56452-0234.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6027/spec-6027-56103-0970.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6027/spec-6027-56103-0888.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6409/spec-6409-56306-0588.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5190/spec-5190-56077-0856.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6312/spec-6312-56487-0536.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3854/spec-3854-55247-0730.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5060/spec-5060-56181-0059.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6418/spec-6418-56354-0985.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5709/spec-5709-56571-0108.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8193/spec-8193-57333-0684.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3588/spec-3588-55184-0700.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3588/spec-3588-55184-0513.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3589/spec-3589-55186-0514.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3587/spec-3587-55182-0916.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7822/spec-7822-57041-0748.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7850/spec-7850-56956-0719.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7850/spec-7850-56956-0688.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4056/spec-4056-55357-0916.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4056/spec-4056-55357-0734.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4989/spec-4989-56069-0226.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4180/spec-4180-55679-0384.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4456/spec-4456-55537-0826.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7419/spec-7419-56811-0577.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6045/spec-6045-56072-0836.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6063/spec-6063-56098-0298.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7082/spec-7082-56713-0142.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6753/spec-6753-56399-0494.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5709/spec-5709-56571-0646.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6056/spec-6056-56092-0904.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4712/spec-4712-55738-0164.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4063/spec-4063-55364-0684.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4743/spec-4743-55645-0753.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4063/spec-4063-55364-0316.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6043/spec-6043-56096-0380.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7636/spec-7636-56989-0171.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5714/spec-5714-56660-0144.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5713/spec-5713-56686-0784.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7376/spec-7376-56749-0370.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4528/spec-4528-55559-0932.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4998/spec-4998-55722-0366.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4185/spec-4185-55469-0040.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4180/spec-4180-55679-0770.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4399/spec-4399-55811-0940.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6673/spec-6673-56419-0344.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4953/spec-4953-55749-0732.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5175/spec-5175-55955-0054.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6670/spec-6670-56389-0642.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6670/spec-6670-56389-0686.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6675/spec-6675-56415-0080.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8864/spec-8864-57428-0333.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3965/spec-3965-55302-0402.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3965/spec-3965-55302-0298.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6131/spec-6131-56211-0070.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6736/spec-6736-56366-0466.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4184/spec-4184-55450-0058.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4184/spec-4184-55450-0151.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5002/spec-5002-55710-0947.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3735/spec-3735-55209-0824.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3736/spec-3736-55214-0706.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4180/spec-4180-55679-0710.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8495/spec-8495-57481-0360.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4452/spec-4452-55536-0875.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6968/spec-6968-56443-0486.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7413/spec-7413-56769-0552.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4231/spec-4231-55444-0054.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6318/spec-6318-56186-0926.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6806/spec-6806-56419-0280.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6162/spec-6162-56191-0289.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3852/spec-3852-55243-0048.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3852/spec-3852-55243-0188.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7870/spec-7870-57016-0627.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4184/spec-4184-55450-0844.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4184/spec-4184-55450-0804.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8835/spec-8835-57427-0301.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5708/spec-5708-56605-0134.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5708/spec-5708-56605-0162.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6968/spec-6968-56443-0588.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6315/spec-6315-56181-0130.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6753/spec-6753-56399-0932.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7411/spec-7411-56776-0941.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4998/spec-4998-55722-0620.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4998/spec-4998-55722-0518.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6043/spec-6043-56096-0918.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5188/spec-5188-55803-0122.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6640/spec-6640-56385-0532.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6806/spec-6806-56419-0614.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7874/spec-7874-57279-0423.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6674/spec-6674-56416-0868.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7254/spec-7254-56625-0517.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6423/spec-6423-56313-0104.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3735/spec-3735-55209-0068.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4226/spec-4226-55475-0310.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3736/spec-3736-55214-0344.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5202/spec-5202-55824-0586.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5202/spec-5202-55824-0633.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6405/spec-6405-56342-0268.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5002/spec-5002-55710-0762.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7862/spec-7862-56984-0808.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4216/spec-4216-55477-0200.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6982/spec-6982-56444-0267.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4984/spec-4984-55827-0408.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7106/spec-7106-56663-0100.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4265/spec-4265-55505-0808.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8406/spec-8406-57513-0124.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4186/spec-4186-55691-0166.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4182/spec-4182-55446-0644.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6158/spec-6158-56239-0092.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6034/spec-6034-56103-0660.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4073/spec-4073-55663-0343.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4056/spec-4056-55357-0704.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3967/spec-3967-55704-0688.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4998/spec-4998-55722-0748.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5318/spec-5318-55983-0870.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5320/spec-5320-55999-0446.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7604/spec-7604-56947-0100.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6062/spec-6062-56091-0270.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5150/spec-5150-56329-0234.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5728/spec-5728-56334-0839.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6673/spec-6673-56419-0284.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4646/spec-4646-55622-0940.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4983/spec-4983-55836-0891.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7447/spec-7447-56746-0198.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6754/spec-6754-56414-0468.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6672/spec-6672-56386-0945.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6140/spec-6140-56189-0288.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5169/spec-5169-56045-0998.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8504/spec-8504-57518-0414.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6029/spec-6029-56099-0862.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6143/spec-6143-56267-0678.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6632/spec-6632-56366-0859.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3970/spec-3970-55591-0354.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3970/spec-3970-55591-0414.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4425/spec-4425-55864-0091.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4955/spec-4955-55750-0572.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4064/spec-4064-55366-0510.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4187/spec-4187-55693-0822.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4187/spec-4187-55693-0828.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6064/spec-6064-56097-0964.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6064/spec-6064-56097-0922.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3987/spec-3987-55590-0974.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6673/spec-6673-56419-0608.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4984/spec-4984-55827-0040.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7445/spec-7445-56720-0597.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5328/spec-5328-55982-0790.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8223/spec-8223-57429-0185.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8223/spec-8223-57429-0074.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5152/spec-5152-56010-0836.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3823/spec-3823-55534-0662.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6314/spec-6314-56191-0318.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6491/spec-6491-56337-0828.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6747/spec-6747-56388-0622.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6746/spec-6746-56386-0984.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5188/spec-5188-55803-0358.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4955/spec-4955-55750-0854.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6038/spec-6038-56090-0135.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6323/spec-6323-56189-0240.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4984/spec-4984-55827-0158.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6679/spec-6679-56401-0600.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8218/spec-8218-57519-0521.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7254/spec-7254-56625-0541.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7426/spec-7426-56771-0557.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4998/spec-4998-55722-0536.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8847/spec-8847-57429-0412.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4189/spec-4189-55679-0974.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4189/spec-4189-55679-0968.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4061/spec-4061-55362-0248.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4064/spec-4064-55366-0568.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8222/spec-8222-57431-0148.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4220/spec-4220-55447-0270.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7866/spec-7866-57002-0898.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6038/spec-6038-56090-0888.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5191/spec-5191-56065-0216.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5191/spec-5191-56065-0038.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3782/spec-3782-55244-0146.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3782/spec-3782-55244-0030.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3768/spec-3768-55564-0377.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3782/spec-3782-55244-0054.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6322/spec-6322-56190-0896.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6318/spec-6318-56186-0436.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6318/spec-6318-56186-0348.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6318/spec-6318-56186-0724.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5960/spec-5960-56097-0964.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5964/spec-5964-56098-0187.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6412/spec-6412-56358-0104.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6412/spec-6412-56358-0485.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5709/spec-5709-56571-0284.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6630/spec-6630-56358-0456.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6749/spec-6749-56370-0094.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7428/spec-7428-56781-0851.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6750/spec-6750-56367-0468.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6629/spec-6629-56365-0652.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6749/spec-6749-56370-0042.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4060/spec-4060-55359-0130.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3767/spec-3767-55214-0006.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3767/spec-3767-55214-0144.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4186/spec-4186-55691-0432.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4367/spec-4367-55566-0260.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4367/spec-4367-55566-0472.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6982/spec-6982-56444-0864.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6974/spec-6974-56442-0376.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6974/spec-6974-56442-0174.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6185/spec-6185-56217-0206.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6184/spec-6184-56267-0794.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6185/spec-6185-56217-0260.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6680/spec-6680-56420-0590.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6744/spec-6744-56399-0345.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8056/spec-8056-57186-0499.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4994/spec-4994-55739-0148.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4705/spec-4705-55705-0420.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3782/spec-3782-55244-0702.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5728/spec-5728-56334-0161.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5729/spec-5729-56598-0586.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3782/spec-3782-55244-0982.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5188/spec-5188-55803-0996.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3832/spec-3832-55289-0891.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8209/spec-8209-57427-0402.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6740/spec-6740-56401-0202.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4994/spec-4994-55739-0426.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5709/spec-5709-56571-0978.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3782/spec-3782-55244-0745.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4996/spec-4996-55720-0022.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5154/spec-5154-55864-0418.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7279/spec-7279-57071-0367.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8840/spec-8840-57425-0592.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6314/spec-6314-56191-0112.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6314/spec-6314-56191-0074.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3735/spec-3735-55209-0666.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3590/spec-3590-55201-0182.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4225/spec-4225-55455-0510.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6633/spec-6633-56369-0268.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6582/spec-6582-56274-0031.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6311/spec-6311-56447-0456.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7082/spec-7082-56713-0894.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7082/spec-7082-56713-0192.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6311/spec-6311-56447-0264.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5339/spec-5339-55922-0936.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7034/spec-7034-56564-0039.fits
-wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc -c https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7034/spec-7034-56564-0098.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3686/spec-3686-55268-0470.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5768/spec-5768-56017-0620.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6721/spec-6721-56398-0346.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6722/spec-6722-56431-0568.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6704/spec-6704-56388-0628.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3672/spec-3672-55484-0690.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4446/spec-4446-55589-0238.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3774/spec-3774-55244-0212.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4801/spec-4801-55653-0228.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3805/spec-3805-55269-0328.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4659/spec-4659-55587-0408.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3760/spec-3760-55268-0674.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5328/spec-5328-55982-0184.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5768/spec-5768-56017-0666.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5768/spec-5768-56017-0750.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5768/spec-5768-56017-0802.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6110/spec-6110-56279-0258.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3803/spec-3803-55513-0293.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3802/spec-3802-55528-0748.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4848/spec-4848-55955-0136.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3686/spec-3686-55268-0594.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4073/spec-4073-55663-0580.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4060/spec-4060-55359-0444.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5405/spec-5405-56010-0186.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4093/spec-4093-55475-0080.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7327/spec-7327-56715-0372.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5772/spec-5772-56003-0586.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3803/spec-3803-55513-0572.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4449/spec-4449-55544-0892.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6020/spec-6020-56087-0312.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4072/spec-4072-55362-0124.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4012/spec-4012-55327-0438.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4537/spec-4537-55806-0308.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3805/spec-3805-55269-0148.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3761/spec-3761-55272-0406.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5459/spec-5459-56035-0380.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5393/spec-5393-55946-0981.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7101/spec-7101-56659-0458.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4008/spec-4008-55356-0499.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6422/spec-6422-56328-0298.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7100/spec-7100-56636-0430.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7100/spec-7100-56636-0402.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4603/spec-4603-55999-0200.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3687/spec-3687-55269-0418.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3681/spec-3681-55243-0888.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3803/spec-3803-55513-0734.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6020/spec-6020-56087-0859.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7088/spec-7088-56657-0536.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4381/spec-4381-55824-0319.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4381/spec-4381-55824-0488.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6177/spec-6177-56268-0466.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7255/spec-7255-56597-0102.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3805/spec-3805-55269-0449.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3811/spec-3811-55538-0104.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3814/spec-3814-55535-0460.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4445/spec-4445-55869-0143.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8185/spec-8185-57431-0470.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7095/spec-7095-56625-0462.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6721/spec-6721-56398-0969.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6714/spec-6714-56447-0853.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4069/spec-4069-55365-0014.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4069/spec-4069-55365-0194.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8283/spec-8283-57064-0653.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8282/spec-8282-57041-0036.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3962/spec-3962-55660-0641.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4656/spec-4656-55828-0528.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5044/spec-5044-56186-0064.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5044/spec-5044-56186-0274.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5045/spec-5045-56181-0500.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5044/spec-5044-56186-0196.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5044/spec-5044-56186-0936.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5772/spec-5772-56003-0898.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4380/spec-4380-55857-0884.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3822/spec-3822-55544-0438.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3684/spec-3684-55246-0690.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3684/spec-3684-55246-0154.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3684/spec-3684-55246-0718.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5454/spec-5454-56015-0151.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6191/spec-6191-56248-0780.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6191/spec-6191-56248-0894.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4287/spec-4287-55483-0704.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7089/spec-7089-56661-0104.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6597/spec-6597-56304-0112.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6308/spec-6308-56215-0862.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4638/spec-4638-55956-0521.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4758/spec-4758-55682-0628.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4199/spec-4199-55481-0259.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8368/spec-8368-57431-0852.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4199/spec-4199-55481-0097.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4060/spec-4060-55359-0346.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5771/spec-5771-56011-0260.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5776/spec-5776-56010-0270.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4380/spec-4380-55857-0379.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8184/spec-8184-57426-0217.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7094/spec-7094-56660-0970.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7102/spec-7102-56666-0112.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5412/spec-5412-55981-0134.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8291/spec-8291-57391-0848.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3674/spec-3674-55182-0034.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5876/spec-5876-56042-0550.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4696/spec-4696-56354-0436.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3805/spec-3805-55269-0772.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6168/spec-6168-56187-0174.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8368/spec-8368-57431-0758.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4089/spec-4089-55470-0498.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3812/spec-3812-55513-0246.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4699/spec-4699-55684-0628.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3675/spec-3675-55183-0730.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3681/spec-3681-55243-0578.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5957/spec-5957-56210-0663.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4423/spec-4423-55889-0998.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8203/spec-8203-57428-0928.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7102/spec-7102-56666-0962.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7100/spec-7100-56636-0768.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6715/spec-6715-56449-0768.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6715/spec-6715-56449-0720.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4277/spec-4277-55506-0302.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3964/spec-3964-55648-0372.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3961/spec-3961-55654-0708.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4089/spec-4089-55470-0524.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3668/spec-3668-55478-0066.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6169/spec-6169-56193-0222.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3683/spec-3683-55178-0132.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3683/spec-3683-55178-0190.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3811/spec-3811-55538-0516.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3809/spec-3809-55533-0963.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8858/spec-8858-57450-0191.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4196/spec-4196-55478-0768.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5852/spec-5852-56034-0374.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4554/spec-4554-56193-0070.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4554/spec-4554-56193-0257.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8858/spec-8858-57450-0353.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8858/spec-8858-57450-0016.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3765/spec-3765-55508-0378.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3765/spec-3765-55508-0294.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6805/spec-6805-56442-0214.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6827/spec-6827-56428-0963.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4017/spec-4017-55329-0950.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3790/spec-3790-55208-0234.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3683/spec-3683-55178-0962.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3676/spec-3676-55186-0030.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4526/spec-4526-55559-0270.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3668/spec-3668-55478-0004.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4414/spec-4414-55882-0931.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4414/spec-4414-55882-0923.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4202/spec-4202-55445-0335.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7315/spec-7315-56685-0298.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7315/spec-7315-56685-0778.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7315/spec-7315-56685-0698.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4034/spec-4034-55635-0108.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8199/spec-8199-57428-0202.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5065/spec-5065-55739-0390.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6642/spec-6642-56396-0596.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8858/spec-8858-57450-0805.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7098/spec-7098-56661-0892.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5968/spec-5968-56356-0342.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5184/spec-5184-56352-0052.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7142/spec-7142-56567-0678.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6709/spec-6709-56429-0538.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5892/spec-5892-56035-0686.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5892/spec-5892-56035-0606.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4553/spec-4553-55584-0226.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3670/spec-3670-55480-0504.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7253/spec-7253-56598-0905.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6809/spec-6809-56454-0610.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3776/spec-3776-55209-0722.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5406/spec-5406-55955-0754.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6602/spec-6602-56571-0970.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5024/spec-5024-55854-0310.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4012/spec-4012-55327-0514.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4903/spec-4903-55927-0100.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3812/spec-3812-55513-0102.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3812/spec-3812-55513-0080.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5777/spec-5777-56280-0298.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4753/spec-4753-55674-0684.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3687/spec-3687-55269-0588.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3687/spec-3687-55269-0712.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5184/spec-5184-56352-0766.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3788/spec-3788-55246-0902.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3664/spec-3664-55245-0716.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6130/spec-6130-56214-0704.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5383/spec-5383-56013-0452.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3765/spec-3765-55508-0508.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5704/spec-5704-56187-0286.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5704/spec-5704-56187-0374.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5786/spec-5786-56251-0182.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4016/spec-4016-55632-0342.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3767/spec-3767-55214-0906.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4569/spec-4569-55631-0472.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8286/spec-8286-57062-0614.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4694/spec-4694-55649-0428.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8285/spec-8285-57048-0229.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4694/spec-4694-55649-0464.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4903/spec-4903-55927-0072.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3764/spec-3764-55514-0084.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3765/spec-3765-55508-0663.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4201/spec-4201-55443-0984.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4201/spec-4201-55443-0944.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3679/spec-3679-55209-0046.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4527/spec-4527-55590-0030.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4527/spec-4527-55590-0696.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3699/spec-3699-55517-0734.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3699/spec-3699-55517-0084.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3688/spec-3688-55273-0530.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5162/spec-5162-55893-0586.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3812/spec-3812-55513-0836.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4013/spec-4013-55629-0330.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4013/spec-4013-55629-0324.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6139/spec-6139-56192-0066.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6172/spec-6172-56269-0142.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6139/spec-6139-56192-0939.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5899/spec-5899-56038-0121.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5778/spec-5778-56328-0740.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3664/spec-3664-55245-0782.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3790/spec-3790-55208-0540.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6168/spec-6168-56187-0790.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4688/spec-4688-56008-0708.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6150/spec-6150-56187-0366.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4537/spec-4537-55806-0542.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3763/spec-3763-55508-0656.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5474/spec-5474-56036-0600.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4013/spec-4013-55629-0276.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5132/spec-5132-55858-0100.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4223/spec-4223-55451-0255.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4631/spec-4631-55617-0667.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4200/spec-4200-55499-0999.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3775/spec-3775-55207-0106.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7157/spec-7157-56946-0790.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3666/spec-3666-55185-0796.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8290/spec-8290-57364-0947.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5779/spec-5779-56338-0164.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5778/spec-5778-56328-0972.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4868/spec-4868-55895-0730.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7108/spec-7108-56686-0838.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5788/spec-5788-56255-0182.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5023/spec-5023-55858-0468.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5902/spec-5902-56042-0383.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6792/spec-6792-56432-0464.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3816/spec-3816-55272-0462.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4511/spec-4511-55602-0854.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3789/spec-3789-55269-0731.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4201/spec-4201-55443-0718.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5185/spec-5185-55978-0902.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3764/spec-3764-55514-0674.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3658/spec-3658-55205-0062.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3658/spec-3658-55205-0986.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3664/spec-3664-55245-0572.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3664/spec-3664-55245-0628.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6829/spec-6829-56453-0878.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4630/spec-4630-55623-0628.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3840/spec-3840-55574-0365.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6786/spec-6786-56448-0500.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4020/spec-4020-55332-0414.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5788/spec-5788-56255-0302.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5299/spec-5299-55927-0248.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7103/spec-7103-56661-0066.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7103/spec-7103-56661-0996.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7108/spec-7108-56686-0598.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7095/spec-7095-56625-0848.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5849/spec-5849-56033-0290.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5849/spec-5849-56033-0472.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6791/spec-6791-56429-0022.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4009/spec-4009-55648-0900.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4009/spec-4009-55648-0508.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7117/spec-7117-56685-0012.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6810/spec-6810-56447-0310.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8829/spec-8829-57446-0696.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8829/spec-8829-57446-0524.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4607/spec-4607-56248-0438.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3679/spec-3679-55209-0372.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3679/spec-3679-55209-0796.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3840/spec-3840-55574-0055.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3842/spec-3842-55565-0124.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3775/spec-3775-55207-0623.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4629/spec-4629-55630-0638.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6591/spec-6591-56535-0754.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6589/spec-6589-56536-0352.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6591/spec-6591-56535-0758.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4555/spec-4555-56189-0069.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4835/spec-4835-56016-0978.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7096/spec-7096-56683-0996.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7103/spec-7103-56661-0358.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6149/spec-6149-56194-0200.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4876/spec-4876-55679-0108.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4876/spec-4876-55679-0058.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4802/spec-4802-55652-0546.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4405/spec-4405-55854-0768.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3841/spec-3841-56016-0096.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6663/spec-6663-56338-0208.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0166.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7103/spec-7103-56661-0863.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4604/spec-4604-55983-0424.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4604/spec-4604-55983-0240.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6198/spec-6198-56211-0410.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6191/spec-6191-56248-0798.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8366/spec-8366-57432-0970.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3843/spec-3843-55278-0482.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3931/spec-3931-55350-0080.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3666/spec-3666-55185-0712.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7117/spec-7117-56685-0746.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4800/spec-4800-55674-0282.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4606/spec-4606-56223-0260.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3810/spec-3810-56015-0002.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3813/spec-3813-55532-0364.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3812/spec-3812-55513-0710.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3682/spec-3682-55244-0732.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5945/spec-5945-56213-0334.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5787/spec-5787-56254-0644.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3843/spec-3843-55278-0776.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8295/spec-8295-57401-0767.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5294/spec-5294-55922-0396.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5299/spec-5299-55927-0478.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6467/spec-6467-56270-0724.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4020/spec-4020-55332-0682.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4543/spec-4543-55888-0238.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4020/spec-4020-55332-0560.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5063/spec-5063-55831-0387.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5942/spec-5942-56210-0808.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4272/spec-4272-55509-0297.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7085/spec-7085-56625-0754.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8190/spec-8190-57448-0930.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7087/spec-7087-56637-0772.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7087/spec-7087-56637-0740.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5897/spec-5897-56042-0259.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5362/spec-5362-56017-0316.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5334/spec-5334-55928-0550.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5331/spec-5331-55976-0298.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4624/spec-4624-55654-0390.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4082/spec-4082-55367-0832.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5739/spec-5739-55976-0122.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3813/spec-3813-55532-0178.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5042/spec-5042-55856-0410.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6816/spec-6816-56444-0668.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5946/spec-5946-56101-0360.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5946/spec-5946-56101-0356.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4871/spec-4871-55928-0424.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3930/spec-3930-55332-0022.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3930/spec-3930-55332-0259.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4606/spec-4606-56223-0830.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3924/spec-3924-55332-0506.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5407/spec-5407-55926-0927.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4544/spec-4544-55855-0064.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8276/spec-8276-57067-0147.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3676/spec-3676-55186-0198.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3674/spec-3674-55182-0885.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8291/spec-8291-57391-0586.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4685/spec-4685-55657-0216.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5789/spec-5789-56246-0302.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4036/spec-4036-55330-0688.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4036/spec-4036-55330-0814.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6783/spec-6783-56284-0896.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8861/spec-8861-57459-0460.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4608/spec-4608-55973-0012.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7307/spec-7307-56720-0450.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3789/spec-3789-55269-0605.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4628/spec-4628-55646-0420.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3931/spec-3931-55350-0428.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7113/spec-7113-56711-0851.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7113/spec-7113-56711-0790.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7113/spec-7113-56711-0963.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7161/spec-7161-56625-0236.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6597/spec-6597-56304-0720.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3813/spec-3813-55532-0400.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3761/spec-3761-55272-0754.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8827/spec-8827-57444-0556.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3840/spec-3840-55574-0078.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7449/spec-7449-56740-0850.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3877/spec-3877-55365-0410.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6179/spec-6179-56221-0200.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6297/spec-6297-56218-0556.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6825/spec-6825-56717-0380.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3671/spec-3671-55483-0028.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3818/spec-3818-55532-0016.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7287/spec-7287-57042-0508.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4365/spec-4365-55539-0350.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4354/spec-4354-55810-0140.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4365/spec-4365-55539-0430.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4365/spec-4365-55539-0400.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5064/spec-5064-55864-0122.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3764/spec-3764-55514-0636.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8293/spec-8293-57361-0073.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5131/spec-5131-55835-0438.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5704/spec-5704-56187-0152.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6206/spec-6206-56245-0720.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5131/spec-5131-55835-0462.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3936/spec-3936-55302-0207.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3877/spec-3877-55365-0342.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3878/spec-3878-55361-0979.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7116/spec-7116-56681-0858.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6813/spec-6813-56419-0583.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3590/spec-3590-55201-0442.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6139/spec-6139-56192-0352.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5731/spec-5731-56363-0290.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7449/spec-7449-56740-0720.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5731/spec-5731-56363-0158.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4079/spec-4079-55363-0556.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5179/spec-5179-55957-0820.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5179/spec-5179-55957-0778.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4042/spec-4042-55626-0554.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5792/spec-5792-56269-0298.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4054/spec-4054-55358-0752.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4009/spec-4009-55648-0988.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5309/spec-5309-55929-0612.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5309/spec-5309-55929-0620.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5347/spec-5347-56008-0432.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8358/spec-8358-57451-0188.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4030/spec-4030-55634-0222.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5706/spec-5706-56165-0152.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5731/spec-5731-56363-0928.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5740/spec-5740-55998-0637.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4730/spec-4730-55630-0260.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5376/spec-5376-55987-0846.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7123/spec-7123-56726-0132.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6815/spec-6815-56419-0989.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6422/spec-6422-56328-0634.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3964/spec-3964-55648-0032.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5314/spec-5314-55952-0385.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5314/spec-5314-55952-0464.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4553/spec-4553-55584-0732.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5064/spec-5064-55864-0806.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6426/spec-6426-56334-0016.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5874/spec-5874-56039-0954.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4689/spec-4689-55656-0380.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3671/spec-3671-55483-0738.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3663/spec-3663-55176-0028.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8306/spec-8306-57419-0152.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6295/spec-6295-56536-0012.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6588/spec-6588-56536-0626.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3806/spec-3806-55505-0722.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3806/spec-3806-55505-0758.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4013/spec-4013-55629-0518.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7167/spec-7167-56604-0806.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7167/spec-7167-56604-0752.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5790/spec-5790-56271-0648.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4684/spec-4684-56226-0838.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5065/spec-5065-55739-0586.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4551/spec-4551-55569-0622.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6649/spec-6649-56364-0270.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7393/spec-7393-56749-0029.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4759/spec-4759-55649-0615.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4359/spec-4359-55533-0168.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7513/spec-7513-56780-0360.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7513/spec-7513-56780-0404.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5900/spec-5900-56043-0013.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7142/spec-7142-56567-0848.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5314/spec-5314-55952-0636.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3673/spec-3673-55178-0258.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3663/spec-3663-55176-0080.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6798/spec-6798-56485-0098.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4609/spec-4609-56251-0288.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5738/spec-5738-56002-0292.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6166/spec-6166-56181-0823.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4272/spec-4272-55509-0512.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5133/spec-5133-55860-0308.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6016/spec-6016-56073-0054.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4197/spec-4197-55479-0698.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4197/spec-4197-55479-0504.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5159/spec-5159-55856-0204.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5063/spec-5063-55831-0302.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5064/spec-5064-55864-0562.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5794/spec-5794-56282-0772.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5790/spec-5790-56271-0712.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6150/spec-6150-56187-0719.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4689/spec-4689-55656-0544.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4667/spec-4667-55868-0880.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4015/spec-4015-55624-0764.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5309/spec-5309-55929-0832.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4609/spec-4609-56251-0498.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4609/spec-4609-56251-0422.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4808/spec-4808-55705-0466.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3930/spec-3930-55332-0964.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6582/spec-6582-56274-0558.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4782/spec-4782-55654-0139.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5948/spec-5948-56107-0229.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6166/spec-6166-56181-0734.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6165/spec-6165-56208-0404.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4683/spec-4683-55924-0198.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4198/spec-4198-55480-0565.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4196/spec-4196-55478-0956.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6016/spec-6016-56073-0246.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3665/spec-3665-55247-0106.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3673/spec-3673-55178-0796.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3665/spec-3665-55247-0078.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6802/spec-6802-56456-0288.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7292/spec-7292-56709-0732.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4786/spec-4786-55651-0518.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5107/spec-5107-55940-0810.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5694/spec-5694-56213-0172.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4781/spec-4781-55653-0132.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5063/spec-5063-55831-0628.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7287/spec-7287-57042-0173.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6660/spec-6660-56370-0592.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8182/spec-8182-56993-0388.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5891/spec-5891-56034-0946.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5795/spec-5795-56298-0976.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8280/spec-8280-57061-0644.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5346/spec-5346-55955-0628.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7393/spec-7393-56749-0160.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5112/spec-5112-55895-0490.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5109/spec-5109-55892-0964.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5109/spec-5109-55892-0180.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5109/spec-5109-55892-0360.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5043/spec-5043-56187-0188.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4766/spec-4766-55677-0478.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4538/spec-4538-55860-0052.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4537/spec-4537-55806-0623.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4197/spec-4197-55479-0758.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3786/spec-3786-55563-0022.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3772/spec-3772-55277-0214.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5854/spec-5854-56035-0632.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3851/spec-3851-55302-0214.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3959/spec-3959-55679-0702.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3959/spec-3959-55679-0676.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7131/spec-7131-56570-0474.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4781/spec-4781-55653-0328.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0321.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4645/spec-4645-55623-0592.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3825/spec-3825-55533-0930.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3823/spec-3823-55534-0940.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4526/spec-4526-55559-0004.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5112/spec-5112-55895-0578.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7046/spec-7046-56568-0530.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3773/spec-3773-55240-0482.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6293/spec-6293-56561-0256.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0161.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0046.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0162.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6293/spec-6293-56561-0264.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5064/spec-5064-55864-0868.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4090/spec-4090-55500-0746.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4426/spec-4426-56105-0438.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4534/spec-4534-55863-0066.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4534/spec-4534-55863-0132.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4780/spec-4780-55682-0440.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4781/spec-4781-55653-0028.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3787/spec-3787-55565-0642.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6190/spec-6190-56210-0056.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5299/spec-5299-55927-0868.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5299/spec-5299-55927-0834.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0023.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8404/spec-8404-57481-0674.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4781/spec-4781-55653-0918.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4760/spec-4760-55656-0102.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3772/spec-3772-55277-0492.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5159/spec-5159-55856-0010.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6288/spec-6288-56192-0500.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4419/spec-4419-55867-0646.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4541/spec-4541-55882-0432.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4605/spec-4605-55971-0182.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8830/spec-8830-57447-0154.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5695/spec-5695-56191-0488.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5694/spec-5694-56213-0092.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8278/spec-8278-56990-0523.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4526/spec-4526-55559-0116.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7673/spec-7673-57329-0220.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6285/spec-6285-56248-0832.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0329.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5296/spec-5296-55922-0114.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5299/spec-5299-55927-0508.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5299/spec-5299-55927-0524.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6649/spec-6649-56364-0050.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7089/spec-7089-56661-0364.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8189/spec-8189-57448-0726.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8189/spec-8189-57448-0472.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4049/spec-4049-55591-0211.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4053/spec-4053-55591-0124.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8404/spec-8404-57481-0509.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5306/spec-5306-55926-0516.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0320.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5302/spec-5302-55896-0886.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4316/spec-4316-55505-0170.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4877/spec-4877-55707-0954.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6184/spec-6184-56267-0393.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5777/spec-5777-56280-0748.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6986/spec-6986-56717-0616.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5732/spec-5732-56326-0986.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6296/spec-6296-56219-0956.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6657/spec-6657-56366-0096.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4965/spec-4965-55721-0514.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6173/spec-6173-56238-0056.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4661/spec-4661-55614-0318.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4966/spec-4966-55712-0744.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4402/spec-4402-55514-0422.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4402/spec-4402-55514-0482.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4776/spec-4776-55652-0509.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6825/spec-6825-56717-0676.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8829/spec-8829-57446-0363.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4607/spec-4607-56248-0220.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6647/spec-6647-56390-0778.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5857/spec-5857-56092-0222.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3788/spec-3788-55246-0584.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4392/spec-4392-55833-0336.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4392/spec-4392-55833-0470.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5324/spec-5324-55947-0162.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8358/spec-8358-57451-0592.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6678/spec-6678-56401-0282.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7378/spec-7378-56715-0362.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3655/spec-3655-55240-0488.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3655/spec-3655-55240-0738.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3655/spec-3655-55240-0778.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3800/spec-3800-55486-0222.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5693/spec-5693-56246-0401.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5368/spec-5368-56001-0482.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5125/spec-5125-55863-0184.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4508/spec-4508-55600-0503.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5949/spec-5949-56096-0284.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5949/spec-5949-56096-0178.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4502/spec-4502-55569-0218.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3780/spec-3780-55240-0436.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3835/spec-3835-55570-0010.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3800/spec-3800-55486-0400.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4096/spec-4096-55501-0804.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4091/spec-4091-55498-0966.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5797/spec-5797-56273-0968.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4856/spec-4856-55712-0282.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7031/spec-7031-56449-0958.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6719/spec-6719-56390-0428.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5894/spec-5894-56039-0362.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5894/spec-5894-56039-0204.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6294/spec-6294-56482-0271.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4783/spec-4783-55652-0926.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6294/spec-6294-56482-0065.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5873/spec-5873-56035-0852.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5386/spec-5386-56008-0888.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3958/spec-3958-55329-0948.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4722/spec-4722-55735-0214.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5115/spec-5115-55885-0590.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5693/spec-5693-56246-0406.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3837/spec-3837-55572-0508.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3659/spec-3659-55181-0600.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6589/spec-6589-56536-0655.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7325/spec-7325-56717-0280.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7328/spec-7328-56715-0856.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4970/spec-4970-56039-0724.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4394/spec-4394-55924-0504.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3655/spec-3655-55240-0595.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5410/spec-5410-56016-0214.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7405/spec-7405-57134-0723.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5699/spec-5699-55953-0178.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4360/spec-4360-55539-0476.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5693/spec-5693-56246-0314.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6718/spec-6718-56398-0954.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7253/spec-7253-56598-0635.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7327/spec-7327-56715-0996.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5736/spec-5736-55984-0466.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3835/spec-3835-55570-0386.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4885/spec-4885-55735-0360.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4417/spec-4417-55829-0334.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3767/spec-3767-55214-0562.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4502/spec-4502-55569-0236.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7325/spec-7325-56717-0788.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5160/spec-5160-55895-0512.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3696/spec-3696-55277-0008.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3696/spec-3696-55277-0214.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7679/spec-7679-57367-0148.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4658/spec-4658-55592-0424.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5303/spec-5303-55980-0108.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3658/spec-3658-55205-0522.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3835/spec-3835-55570-0660.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7145/spec-7145-56567-0835.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4316/spec-4316-55505-0538.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4863/spec-4863-55688-0462.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6591/spec-6591-56535-0524.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5699/spec-5699-55953-0966.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5693/spec-5693-56246-0756.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4481/spec-4481-55630-0258.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4487/spec-4487-55866-0884.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3696/spec-3696-55277-0738.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4505/spec-4505-55603-0374.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7390/spec-7390-57130-0174.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6425/spec-6425-56298-0555.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0356.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3833/spec-3833-55290-0224.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3771/spec-3771-55544-0586.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7610/spec-7610-56980-0858.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4873/spec-4873-55926-0094.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4877/spec-4877-55707-0658.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6678/spec-6678-56401-0784.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5429/spec-5429-55979-0076.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4490/spec-4490-55629-0957.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0140.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7380/spec-7380-56753-0911.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5335/spec-5335-56013-0180.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3670/spec-3670-55480-0672.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3692/spec-3692-55186-0586.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3693/spec-3693-55208-0498.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4206/spec-4206-55471-0156.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6683/spec-6683-56416-0330.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6677/spec-6677-56385-0570.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7112/spec-7112-56666-0061.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4209/spec-4209-55478-0404.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3945/spec-3945-55648-0204.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6426/spec-6426-56334-0624.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6031/spec-6031-56091-0046.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5870/spec-5870-56065-0082.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4574/spec-4574-55621-0920.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3693/spec-3693-55208-0679.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3821/spec-3821-55535-0578.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4538/spec-4538-55860-0008.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6975/spec-6975-56720-0446.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7579/spec-7579-56954-0152.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0528.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5948/spec-5948-56107-0022.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4732/spec-4732-55648-0248.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3670/spec-3670-55480-0918.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6036/spec-6036-56093-0314.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6648/spec-6648-56383-0556.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7596/spec-7596-56945-0990.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6171/spec-6171-56311-0189.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4355/spec-4355-55533-0730.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4355/spec-4355-55533-0710.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4207/spec-4207-55475-0912.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4543/spec-4543-55888-0922.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4885/spec-4885-55735-0814.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5211/spec-5211-56002-0222.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3941/spec-3941-55321-0745.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0218.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4084/spec-4084-55447-0094.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5878/spec-5878-56033-0634.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4903/spec-4903-55927-0968.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5289/spec-5289-55893-0406.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5803/spec-5803-56272-0894.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6823/spec-6823-56687-0852.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4852/spec-4852-55689-0604.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4571/spec-4571-55629-0934.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5858/spec-5858-56063-0356.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5858/spec-5858-56063-0358.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6700/spec-6700-56384-0656.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4481/spec-4481-55630-0380.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0814.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0338.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6963/spec-6963-56724-0451.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0699.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4504/spec-4504-55571-0754.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4504/spec-4504-55571-0813.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4764/spec-4764-55646-0684.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3945/spec-3945-55648-0726.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8854/spec-8854-57450-0921.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4567/spec-4567-55589-0697.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5447/spec-5447-55958-0426.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5442/spec-5442-55978-0132.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4469/spec-4469-55863-0047.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5435/spec-5435-55982-0360.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6031/spec-6031-56091-0860.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6047/spec-6047-56098-0617.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4470/spec-4470-55587-0200.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7455/spec-7455-56768-0503.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6963/spec-6963-56724-0309.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6963/spec-6963-56724-0238.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5442/spec-5442-55978-0820.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5886/spec-5886-56034-0350.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5043/spec-5043-56187-0468.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0120.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5862/spec-5862-56045-0694.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0898.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4497/spec-4497-55564-0788.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5948/spec-5948-56107-0107.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7579/spec-7579-56954-0839.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6963/spec-6963-56724-0492.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3949/spec-3949-55650-0984.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6037/spec-6037-56106-0948.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6606/spec-6606-56596-0161.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5779/spec-5779-56338-0551.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5781/spec-5781-56337-0214.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4087/spec-4087-55449-0738.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4470/spec-4470-55587-0840.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6198/spec-6198-56211-0140.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3938/spec-3938-55328-0973.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3945/spec-3945-55648-0998.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3938/spec-3938-55328-0810.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5851/spec-5851-56075-0200.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4492/spec-4492-55565-0812.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6026/spec-6026-56071-0568.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5456/spec-5456-55980-0250.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4174/spec-4174-55659-0560.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7382/spec-7382-56991-0999.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5160/spec-5160-55895-0833.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7319/spec-7319-56962-0152.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7389/spec-7389-56769-0950.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8167/spec-8167-57071-0303.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6025/spec-6025-56098-0204.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5285/spec-5285-55946-0390.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5450/spec-5450-55986-0126.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4466/spec-4466-55857-0440.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4466/spec-4466-55857-0524.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7149/spec-7149-56593-0866.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3937/spec-3937-55352-0438.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3937/spec-3937-55352-0518.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6161/spec-6161-56238-0828.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6145/spec-6145-56266-1000.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7303/spec-7303-57013-0864.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7294/spec-7294-56739-0172.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8162/spec-8162-56993-0238.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4174/spec-4174-55659-0786.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4178/spec-4178-55653-0973.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6964/spec-6964-56748-0991.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0252.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4539/spec-4539-55865-0925.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4541/spec-4541-55882-0593.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3810/spec-3810-56015-0482.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3810/spec-3810-56015-0734.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4468/spec-4468-55894-0025.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4468/spec-4468-55894-0114.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5781/spec-5781-56337-0266.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5285/spec-5285-55946-0703.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6181/spec-6181-56239-0092.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4504/spec-4504-55571-0996.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4496/spec-4496-55544-0164.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6685/spec-6685-56412-0398.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7120/spec-7120-56720-0014.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3948/spec-3948-55331-0719.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0428.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4203/spec-4203-55447-0866.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6039/spec-6039-56099-0490.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8489/spec-8489-57483-0233.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4567/spec-4567-55589-0822.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4566/spec-4566-55630-0228.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4562/spec-4562-55570-0518.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4562/spec-4562-55570-0500.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4215/spec-4215-55471-0312.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7167/spec-7167-56604-0030.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4871/spec-4871-55928-0024.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4084/spec-4084-55447-0318.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4467/spec-4467-55894-0886.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5947/spec-5947-56093-0635.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6706/spec-6706-56385-0856.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4531/spec-4531-55563-0089.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5044/spec-5044-56186-0942.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6684/spec-6684-56412-0229.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3810/spec-3810-55531-0642.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7255/spec-7255-56597-0833.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3810/spec-3810-56015-0494.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3809/spec-3809-55533-0256.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4487/spec-4487-55866-0324.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5441/spec-5441-56017-0848.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4503/spec-4503-55563-0546.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4498/spec-4498-55615-0188.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4854/spec-4854-55685-0766.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4470/spec-4470-55587-0626.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3944/spec-3944-55660-0040.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8166/spec-8166-57130-0882.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7673/spec-7673-57329-0360.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6286/spec-6286-56301-0353.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5869/spec-5869-56064-0716.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5889/spec-5889-56038-0014.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4081/spec-4081-55365-0038.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6025/spec-6025-56098-0448.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6299/spec-6299-56478-0168.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4177/spec-4177-55688-0060.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8172/spec-8172-57423-0242.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4542/spec-4542-55833-0116.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4542/spec-4542-55833-0078.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5389/spec-5389-55953-0933.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5389/spec-5389-55953-0158.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6302/spec-6302-56565-0206.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6589/spec-6589-56536-0906.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5125/spec-5125-55863-0755.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5125/spec-5125-55863-0650.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5431/spec-5431-56011-0078.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3943/spec-3943-55336-0370.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4498/spec-4498-55615-0212.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5291/spec-5291-55947-0098.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7033/spec-7033-56565-0766.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7120/spec-7120-56720-0356.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4510/spec-4510-55559-0020.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6683/spec-6683-56416-0272.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5892/spec-5892-56035-0077.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3657/spec-3657-55244-0040.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3953/spec-3953-55322-0312.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5441/spec-5441-56017-0544.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5898/spec-5898-56045-0460.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5991/spec-5991-56076-0460.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5989/spec-5989-56312-0392.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5990/spec-5990-56066-0628.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4177/spec-4177-55688-0832.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4485/spec-4485-55836-0185.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8296/spec-8296-57375-0879.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8296/spec-8296-57375-0836.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8296/spec-8296-57375-0850.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6583/spec-6583-56566-0306.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6584/spec-6584-56568-0212.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6319/spec-6319-56452-0129.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6734/spec-6734-56386-0197.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5352/spec-5352-56269-0732.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5898/spec-5898-56045-0278.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6690/spec-6690-56416-0408.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5889/spec-5889-56038-0373.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6700/spec-6700-56384-0066.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6700/spec-6700-56384-1000.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4461/spec-4461-55888-0346.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5425/spec-5425-56003-0148.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5132/spec-5132-55858-0796.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5440/spec-5440-55983-0714.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4462/spec-4462-55600-0376.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7143/spec-7143-56572-0560.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5285/spec-5285-55946-0782.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6013/spec-6013-56074-0230.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6013/spec-6013-56074-0045.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4562/spec-4562-55570-0691.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4290/spec-4290-55527-0573.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4505/spec-4505-55603-0384.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4496/spec-4496-55544-0637.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5372/spec-5372-55978-0294.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4029/spec-4029-55618-0169.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6299/spec-6299-56478-0970.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5364/spec-5364-56000-0808.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5445/spec-5445-55987-0790.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5445/spec-5445-55987-0530.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5392/spec-5392-56010-0664.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5425/spec-5425-56003-0415.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4210/spec-4210-55444-0099.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4210/spec-4210-55444-0056.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5448/spec-5448-56013-0084.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6698/spec-6698-56637-0260.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5726/spec-5726-56626-0342.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5726/spec-5726-56626-0774.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5418/spec-5418-56037-0076.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3951/spec-3951-55681-0672.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4177/spec-4177-55688-0535.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0866.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8302/spec-8302-57389-0854.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0760.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0712.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0704.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5425/spec-5425-56003-0638.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6291/spec-6291-56209-0552.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6299/spec-6299-56478-0794.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3657/spec-3657-55244-0198.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3657/spec-3657-55244-0476.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6727/spec-6727-56369-0436.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4421/spec-4421-55858-0620.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4455/spec-4455-55539-0211.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6119/spec-6119-56181-0952.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5806/spec-5806-56310-0186.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6698/spec-6698-56637-0433.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5810/spec-5810-56358-0620.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8823/spec-8823-57446-0843.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4416/spec-4416-55828-0066.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4416/spec-4416-55828-0007.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6164/spec-6164-56181-0730.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4181/spec-4181-55685-0888.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5291/spec-5291-55947-0646.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5287/spec-5287-55952-0999.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6013/spec-6013-56074-0326.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4294/spec-4294-55500-0534.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6291/spec-6291-56209-0068.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4462/spec-4462-55600-0718.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3657/spec-3657-55244-0906.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3809/spec-3809-55533-0466.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4501/spec-4501-55590-0294.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6697/spec-6697-56419-0368.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6690/spec-6690-56416-0919.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5394/spec-5394-56001-0794.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5394/spec-5394-56001-0866.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4091/spec-4091-55498-0588.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6283/spec-6283-56239-0633.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3956/spec-3956-55656-0234.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3956/spec-3956-55656-0222.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6734/spec-6734-56386-0628.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5343/spec-5343-55999-0840.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5343/spec-5343-55999-0200.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5443/spec-5443-56010-0738.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6291/spec-6291-56209-0031.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3657/spec-3657-55244-0710.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4180/spec-4180-55679-0030.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4549/spec-4549-55556-0018.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4210/spec-4210-55444-0220.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3655/spec-3655-55240-0945.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4540/spec-4540-55863-0586.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8163/spec-8163-57049-0617.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8301/spec-8301-57390-0258.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4565/spec-4565-55591-0034.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4792/spec-4792-55925-0726.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5439/spec-5439-56045-0490.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5434/spec-5434-56033-0898.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5434/spec-5434-56033-0075.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4176/spec-4176-55682-0412.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4505/spec-4505-55603-0877.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3809/spec-3809-55533-0738.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4469/spec-4469-55863-0732.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7092/spec-7092-56683-0092.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8230/spec-8230-57430-0216.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8300/spec-8300-57391-0854.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4636/spec-4636-55945-0276.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5373/spec-5373-56010-0571.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5941/spec-5941-56193-0606.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4180/spec-4180-55679-0026.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7653/spec-7653-57306-0116.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4096/spec-4096-55501-0544.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4499/spec-4499-55572-0142.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6825/spec-6825-56717-0629.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6307/spec-6307-56205-0541.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6290/spec-6290-56238-0192.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4176/spec-4176-55682-0314.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4397/spec-4397-55921-0118.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6017/spec-6017-56075-0240.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5042/spec-5042-55856-0580.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4497/spec-4497-55564-0296.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4292/spec-4292-55532-0004.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6736/spec-6736-56366-0928.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8491/spec-8491-57488-0905.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6706/spec-6706-56385-0972.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6699/spec-6699-56411-0582.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6160/spec-6160-56190-0182.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5324/spec-5324-55947-0590.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4447/spec-4447-55542-0580.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5428/spec-5428-56029-0752.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5428/spec-5428-56029-0782.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5371/spec-5371-55976-0512.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6014/spec-6014-56072-0519.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8171/spec-8171-57135-0190.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6278/spec-6278-56266-0158.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4446/spec-4446-55589-0714.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6017/spec-6017-56075-0538.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4497/spec-4497-55564-0187.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3955/spec-3955-55678-0456.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4726/spec-4726-55712-0436.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5793/spec-5793-56337-0472.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4501/spec-4501-55590-0192.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4280/spec-4280-55503-0444.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4501/spec-4501-55590-0896.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4092/spec-4092-55477-0924.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4561/spec-4561-55614-0788.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8302/spec-8302-57389-0508.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4693/spec-4693-55632-0246.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8854/spec-8854-57450-0223.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8854/spec-8854-57450-0229.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4455/spec-4455-55539-0034.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6707/spec-6707-56383-0031.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6705/spec-6705-56636-0510.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4375/spec-4375-55889-0154.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4693/spec-4693-55632-0030.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5724/spec-5724-56364-0374.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5724/spec-5724-56364-0456.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0462.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4485/spec-4485-55836-0938.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4485/spec-4485-55836-0894.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3955/spec-3955-55678-0572.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3962/spec-3962-55660-0231.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5125/spec-5125-55863-0965.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5126/spec-5126-55923-0444.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4466/spec-4466-55857-0924.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7159/spec-7159-56603-0282.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7385/spec-7385-56710-0250.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5016/spec-5016-55709-0596.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7093/spec-7093-56657-0639.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7168/spec-7168-56625-0994.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5429/spec-5429-55979-0598.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4018/spec-4018-55622-0226.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4539/spec-4539-55865-0908.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4176/spec-4176-55682-0986.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6119/spec-6119-56181-0240.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4375/spec-4375-55889-0641.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3961/spec-3961-55654-0244.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3955/spec-3955-55678-0592.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3949/spec-3949-55650-0546.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7092/spec-7092-56683-0270.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8434/spec-8434-57484-0063.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4175/spec-4175-55680-0297.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4694/spec-4694-55649-0968.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4087/spec-4087-55449-0626.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4463/spec-4463-55868-0492.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3757/spec-3757-55508-0249.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8854/spec-8854-57450-0435.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4176/spec-4176-55682-0812.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4176/spec-4176-55682-0914.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4280/spec-4280-55503-0872.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0720.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0712.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6588/spec-6588-56536-0038.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4081/spec-4081-55365-0696.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5389/spec-5389-55953-0671.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7086/spec-7086-56658-0654.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7085/spec-7085-56625-0980.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5426/spec-5426-55987-0342.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6008/spec-6008-56093-0381.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4576/spec-4576-55592-0608.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4642/spec-4642-55926-0214.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3826/spec-3826-55563-0804.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3826/spec-3826-55563-0962.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3826/spec-3826-55563-0654.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0808.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5453/spec-5453-56001-0330.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7609/spec-7609-56959-0437.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5854/spec-5854-56035-0148.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7092/spec-7092-56683-0916.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4807/spec-4807-55687-0020.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4442/spec-4442-55532-0299.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3758/spec-3758-55506-0746.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4494/spec-4494-55569-0174.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4351/spec-4351-55538-0792.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3937/spec-3937-55352-0834.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5987/spec-5987-56339-0590.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5984/spec-5984-56337-0068.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4393/spec-4393-55944-0676.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4175/spec-4175-55680-0760.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4175/spec-4175-55680-0891.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5453/spec-5453-56001-0436.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3780/spec-3780-55240-0736.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4463/spec-4463-55868-0140.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4574/spec-4574-55621-0510.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4576/spec-4576-55592-0662.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4482/spec-4482-55617-0782.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4508/spec-4508-55600-0108.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6008/spec-6008-56093-0400.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6286/spec-6286-56301-0683.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4085/spec-4085-55452-0410.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4032/spec-4032-55333-0664.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4642/spec-4642-55926-0770.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4640/spec-4640-55927-0203.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8832/spec-8832-57445-0467.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4442/spec-4442-55532-0788.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8858/spec-8858-57450-0202.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6658/spec-6658-56606-0400.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3936/spec-3936-55302-0586.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4531/spec-4531-55563-0947.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4763/spec-4763-55869-0372.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4062/spec-4062-55383-0728.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6727/spec-6727-56369-0714.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8401/spec-8401-57482-0107.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4463/spec-4463-55868-0738.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8168/spec-8168-56992-0654.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6694/spec-6694-56386-0459.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6658/spec-6658-56606-0733.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4085/spec-4085-55452-0074.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3785/spec-3785-55273-0172.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5950/spec-5950-56211-0128.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6299/spec-6299-56478-0639.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3662/spec-3662-55182-0356.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3936/spec-3936-55302-0628.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3936/spec-3936-55302-0689.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4034/spec-4034-55635-0992.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5345/spec-5345-56010-0126.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3668/spec-3668-55478-0758.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8167/spec-8167-57071-0734.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8282/spec-8282-57041-0328.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5417/spec-5417-55978-0802.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4176/spec-4176-55682-0604.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4463/spec-4463-55868-0850.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3770/spec-3770-55234-0472.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8831/spec-8831-57448-0310.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4642/spec-4642-55926-0590.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5284/spec-5284-55866-0562.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5284/spec-5284-55866-0786.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4576/spec-4576-55592-0856.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5875/spec-5875-56038-0566.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5874/spec-5874-56039-0134.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4807/spec-4807-55687-0798.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4641/spec-4641-55947-0024.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6124/spec-6124-56211-0375.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6668/spec-6668-56605-0818.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4498/spec-4498-55615-0667.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4549/spec-4549-55556-0066.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4549/spec-4549-55556-0076.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4404/spec-4404-55513-0628.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4183/spec-4183-55447-0362.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4061/spec-4061-55362-0761.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6151/spec-6151-56265-0625.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6151/spec-6151-56265-0674.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6176/spec-6176-56264-0486.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3760/spec-3760-55268-0446.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3762/spec-3762-55507-0738.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4497/spec-4497-55564-0518.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4323/spec-4323-55884-0375.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5411/spec-5411-55953-0855.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4418/spec-4418-55862-0855.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6197/spec-6197-56191-0744.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4085/spec-4085-55452-0275.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3785/spec-3785-55273-0524.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4183/spec-4183-55447-0496.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4458/spec-4458-55536-0034.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5864/spec-5864-56047-0294.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6299/spec-6299-56478-0666.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6725/spec-6725-56390-0988.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8401/spec-8401-57482-0340.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4408/spec-4408-55888-0256.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3682/spec-3682-55244-0468.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3763/spec-3763-55508-0448.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3760/spec-3760-55268-0350.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3760/spec-3760-55268-0352.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6163/spec-6163-56219-0798.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4455/spec-4455-55539-0692.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5420/spec-5420-56009-0812.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4493/spec-4493-55585-0246.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4571/spec-4571-55629-0654.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4575/spec-4575-55590-0754.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5461/spec-5461-56018-0661.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6703/spec-6703-56636-0494.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4386/spec-4386-55540-0375.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7881/spec-7881-57282-0052.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6497/spec-6497-56329-0122.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5360/spec-5360-55983-0034.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8181/spec-8181-57073-0564.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4640/spec-4640-55927-0750.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6308/spec-6308-56215-0578.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7613/spec-7613-56988-0440.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3941/spec-3941-55321-0490.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3760/spec-3760-55268-0802.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3757/spec-3757-55508-0310.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3757/spec-3757-55508-0332.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7455/spec-7455-56768-0263.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4471/spec-4471-55617-0564.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6157/spec-6157-56238-0112.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5419/spec-5419-55983-0216.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3821/spec-3821-55535-0625.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6166/spec-6166-56181-0446.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6707/spec-6707-56383-0192.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3757/spec-3757-55508-0604.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4415/spec-4415-55831-0184.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4321/spec-4321-55504-0024.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3942/spec-3942-55338-0662.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3947/spec-3947-55332-0050.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4449/spec-4449-55544-0114.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5422/spec-5422-55986-0848.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3809/spec-3809-55533-0504.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4789/spec-4789-55923-0826.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4764/spec-4764-55646-0082.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4789/spec-4789-55923-0640.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5453/spec-5453-56001-0544.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5455/spec-5455-56009-0330.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8299/spec-8299-57346-0525.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4077/spec-4077-55361-0564.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4303/spec-4303-55508-0562.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6704/spec-6704-56388-0368.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6187/spec-6187-56244-0994.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5724/spec-5724-56364-0816.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3781/spec-3781-55243-0912.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6279/spec-6279-56243-0016.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4466/spec-4466-55857-0104.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7455/spec-7455-56768-0739.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4457/spec-4457-55858-0949.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4024/spec-4024-55646-0690.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4024/spec-4024-55646-0898.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7085/spec-7085-56625-0422.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8173/spec-8173-57375-0792.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3941/spec-3941-55321-0142.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3962/spec-3962-55660-0428.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4276/spec-4276-55505-0662.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7094/spec-7094-56660-0444.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4181/spec-4181-55685-0304.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4207/spec-4207-55475-0102.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5446/spec-5446-56014-0146.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8831/spec-8831-57448-0539.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8297/spec-8297-57416-0172.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4695/spec-4695-55957-0463.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4078/spec-4078-55358-0112.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8282/spec-8282-57041-0578.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8282/spec-8282-57041-0570.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3779/spec-3779-55222-0940.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4007/spec-4007-55327-0008.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4450/spec-4450-55540-0506.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5773/spec-5773-56009-0022.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8178/spec-8178-57428-0477.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7094/spec-7094-56660-0660.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5451/spec-5451-56010-0778.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4456/spec-4456-55537-0328.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3934/spec-3934-55336-0472.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3779/spec-3779-55222-0881.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4486/spec-4486-55588-0784.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8175/spec-8175-57039-0798.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6687/spec-6687-56602-0397.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6687/spec-6687-56602-0298.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6668/spec-6668-56605-0662.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6196/spec-6196-56189-0781.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4862/spec-4862-55685-0856.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5888/spec-5888-56041-0724.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5888/spec-5888-56041-0514.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5888/spec-5888-56041-0494.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4852/spec-4852-55689-0323.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5296/spec-5296-55922-0196.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5296/spec-5296-55922-0454.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5165/spec-5165-56063-0348.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5731/spec-5731-56363-0310.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5731/spec-5731-56363-0802.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4418/spec-4418-55862-0876.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6460/spec-6460-56334-0356.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4208/spec-4208-55476-0978.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5972/spec-5972-56334-0505.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4456/spec-4456-55537-0220.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4456/spec-4456-55537-0108.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5493/spec-5493-56009-0614.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6514/spec-6514-56487-0246.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3801/spec-3801-55509-0068.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3801/spec-3801-55509-0636.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7682/spec-7682-57415-0503.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7682/spec-7682-57415-0584.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4979/spec-4979-56045-0654.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6519/spec-6519-56566-0546.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5864/spec-5864-56047-0952.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3849/spec-3849-55274-0046.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5296/spec-5296-55922-0890.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5298/spec-5298-55979-0232.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6453/spec-6453-56365-0480.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5315/spec-5315-55978-0330.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6508/spec-6508-56535-0917.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3804/spec-3804-55267-0650.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5286/spec-5286-56225-0200.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7084/spec-7084-56624-0960.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5164/spec-5164-56067-0133.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5165/spec-5165-56063-0474.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4415/spec-4415-55831-0720.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4405/spec-4405-55854-0866.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4405/spec-4405-55854-0900.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6451/spec-6451-56358-0665.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6451/spec-6451-56358-0628.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6450/spec-6450-56331-0052.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5452/spec-5452-55957-0054.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7592/spec-7592-56947-0123.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7847/spec-7847-57012-0282.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3804/spec-3804-55267-0033.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3804/spec-3804-55267-0550.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5313/spec-5313-55973-0596.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3784/spec-3784-55269-0282.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7253/spec-7253-56598-0270.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7253/spec-7253-56598-0339.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5891/spec-5891-56034-0586.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5040/spec-5040-56243-0482.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5044/spec-5044-56186-0538.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6274/spec-6274-56550-0164.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5702/spec-5702-56221-0272.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5212/spec-5212-56016-0932.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3872/spec-3872-55382-0944.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4228/spec-4228-55484-0288.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8790/spec-8790-57363-0456.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3927/spec-3927-55333-0044.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6464/spec-6464-56309-0352.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7457/spec-7457-56746-0970.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8857/spec-8857-57449-0567.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5158/spec-5158-55913-0066.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5698/spec-5698-55947-0006.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7141/spec-7141-56565-0488.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7141/spec-7141-56565-0722.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4496/spec-4496-55544-0778.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3783/spec-3783-55246-0106.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5992/spec-5992-56066-0970.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3879/spec-3879-55244-0540.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3871/spec-3871-55307-0068.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3766/spec-3766-55213-0262.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4443/spec-4443-55539-0256.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4005/spec-4005-55325-0059.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4191/spec-4191-55444-0412.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5114/spec-5114-55883-0518.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5207/spec-5207-56018-0260.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4895/spec-4895-55708-0702.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6258/spec-6258-56238-0320.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6255/spec-6255-56240-0896.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6258/spec-6258-56238-0292.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7305/spec-7305-56991-0021.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7516/spec-7516-56782-0754.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5207/spec-5207-56018-0450.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5207/spec-5207-56018-0460.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5207/spec-5207-56018-0035.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6050/spec-6050-56089-0620.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3868/spec-3868-55360-0476.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7142/spec-7142-56567-0966.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3830/spec-3830-55574-0456.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6258/spec-6258-56238-0722.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3781/spec-3781-55243-0370.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6252/spec-6252-56248-0890.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3871/spec-3871-55307-0726.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4773/spec-4773-55648-0624.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4858/spec-4858-55686-0082.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6465/spec-6465-56279-0609.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6465/spec-6465-56279-0589.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6463/spec-6463-56340-0369.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6511/spec-6511-56540-0590.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5058/spec-5058-56208-0994.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5483/spec-5483-56017-0951.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3831/spec-3831-55543-0024.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6304/spec-6304-56570-0768.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8435/spec-8435-57487-0114.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3752/spec-3752-55236-0550.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4634/spec-4634-55626-0448.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6526/spec-6526-56543-0006.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3875/spec-3875-55364-0024.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4007/spec-4007-55327-0548.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7059/spec-7059-56592-0892.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6475/spec-6475-56337-0834.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7301/spec-7301-56746-0788.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7376/spec-7376-56749-0169.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5491/spec-5491-56034-0314.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6595/spec-6595-56569-0646.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6402/spec-6402-56334-0258.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4856/spec-4856-55712-0446.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3818/spec-3818-55532-0498.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6256/spec-6256-56323-0188.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5292/spec-5292-55926-0586.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5176/spec-5176-56221-0220.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5292/spec-5292-55926-0544.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4996/spec-4996-55720-0990.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3875/spec-3875-55364-0952.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3695/spec-3695-55212-0012.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7302/spec-7302-57012-0297.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3697/spec-3697-55290-0678.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6279/spec-6279-56243-0406.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5347/spec-5347-56008-0646.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5491/spec-5491-56034-0294.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3876/spec-3876-55245-0062.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3831/spec-3831-55543-0916.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3861/spec-3861-55274-0361.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7056/spec-7056-56577-0166.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7059/spec-7059-56592-0652.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5697/spec-5697-55944-0882.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5955/spec-5955-56456-0516.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5167/spec-5167-56066-0875.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8198/spec-8198-57374-0298.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8197/spec-8197-57064-0718.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4891/spec-4891-55736-0556.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6742/spec-6742-56415-0770.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6742/spec-6742-56415-0530.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7027/spec-7027-56448-0172.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5205/spec-5205-56040-0378.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4780/spec-4780-55682-0826.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6178/spec-6178-56213-0434.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3828/spec-3828-55539-0124.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3783/spec-3783-55246-0549.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5062/spec-5062-55803-0108.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3829/spec-3829-55300-0306.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3768/spec-3768-55564-0700.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4720/spec-4720-55691-0454.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8856/spec-8856-57453-0929.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6507/spec-6507-56478-0106.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6881/spec-6881-56540-0904.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6279/spec-6279-56243-0494.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5205/spec-5205-56040-0600.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6261/spec-6261-56219-0668.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6261/spec-6261-56219-0624.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4890/spec-4890-55741-0439.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7285/spec-7285-56991-0493.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4856/spec-4856-55712-0812.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6498/spec-6498-56565-0402.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4306/spec-4306-55584-0696.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4228/spec-4228-55484-0273.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4997/spec-4997-55738-0554.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5205/spec-5205-56040-0974.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6413/spec-6413-56336-0562.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4664/spec-4664-56186-0750.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4668/spec-4668-56211-0502.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5131/spec-5131-55835-0060.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7183/spec-7183-56658-0432.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5332/spec-5332-55981-0850.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3861/spec-3861-55274-0690.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6279/spec-6279-56243-0657.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7665/spec-7665-57328-0841.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5481/spec-5481-55983-0082.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4856/spec-4856-55712-0755.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4191/spec-4191-55444-0660.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6507/spec-6507-56478-0276.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5138/spec-5138-55830-0740.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7083/spec-7083-56722-0076.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7097/spec-7097-56667-0780.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6490/spec-6490-56330-0802.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4723/spec-4723-56033-0652.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7027/spec-7027-56448-0417.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6054/spec-6054-56089-0814.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5324/spec-5324-55947-0404.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7610/spec-7610-56980-0792.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7610/spec-7610-56980-0612.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6592/spec-6592-56535-0100.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7610/spec-7610-56980-0832.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6474/spec-6474-56362-0316.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8853/spec-8853-57459-0544.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7277/spec-7277-56748-0794.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6596/spec-6596-56331-0208.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5813/spec-5813-56363-0496.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5736/spec-5736-55984-0082.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5484/spec-5484-56039-0232.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4443/spec-4443-55539-0936.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6054/spec-6054-56089-0954.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4417/spec-4417-55829-0678.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7135/spec-7135-56564-0894.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3869/spec-3869-55273-0924.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3869/spec-3869-55273-0972.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5880/spec-5880-56042-0834.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4633/spec-4633-55620-0452.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4633/spec-4633-55620-0353.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4860/spec-4860-55691-0994.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3985/spec-3985-55320-0580.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7665/spec-7665-57328-0903.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6513/spec-6513-56543-0024.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6880/spec-6880-56543-0777.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5176/spec-5176-56221-0520.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6138/spec-6138-56598-0318.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5473/spec-5473-56033-0921.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8194/spec-8194-57401-0378.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5719/spec-5719-56014-0114.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8194/spec-8194-57401-0238.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3754/spec-3754-55488-0432.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6048/spec-6048-56072-0748.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5735/spec-5735-55980-0270.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6263/spec-6263-56279-0246.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6262/spec-6262-56267-0574.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3939/spec-3939-55633-0048.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4856/spec-4856-55712-0668.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4715/spec-4715-55653-0060.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4715/spec-4715-55653-0130.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6443/spec-6443-56367-0040.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5472/spec-5472-55976-0418.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7133/spec-7133-56567-0246.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6276/spec-6276-56269-0139.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3754/spec-3754-55488-0516.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3848/spec-3848-55647-0130.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6263/spec-6263-56279-0334.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6262/spec-6262-56267-0558.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4716/spec-4716-55738-0107.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4720/spec-4720-55691-0160.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5355/spec-5355-56009-0204.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5982/spec-5982-56074-0522.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4889/spec-4889-55709-0288.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4720/spec-4720-55691-0741.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3927/spec-3927-55333-0412.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3933/spec-3933-55335-0574.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4489/spec-4489-55545-0458.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6041/spec-6041-56102-0462.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7849/spec-7849-56980-0727.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7053/spec-7053-56564-0410.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3767/spec-3767-55214-0488.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3853/spec-3853-55268-0200.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3986/spec-3986-55329-0054.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7664/spec-7664-57367-0780.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4889/spec-4889-55709-0090.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4889/spec-4889-55709-0104.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6596/spec-6596-56331-0482.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3848/spec-3848-55647-0918.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3847/spec-3847-55588-0166.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5201/spec-5201-55832-0412.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4273/spec-4273-55506-0860.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5154/spec-5154-55864-0195.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4882/spec-4882-55721-0124.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5476/spec-5476-55986-0114.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4489/spec-4489-55545-0877.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6273/spec-6273-56243-0808.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7304/spec-7304-56745-0021.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5732/spec-5732-56326-0772.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5732/spec-5732-56326-0682.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5349/spec-5349-55929-0852.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5349/spec-5349-55929-0080.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3986/spec-3986-55329-0076.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6472/spec-6472-56362-0736.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6136/spec-6136-56206-0198.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6143/spec-6143-56267-0582.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6263/spec-6263-56279-0776.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6597/spec-6597-56304-0246.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6263/spec-6263-56279-0810.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6263/spec-6263-56279-0642.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6197/spec-6197-56191-0888.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6445/spec-6445-56366-0386.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6452/spec-6452-56366-0186.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4879/spec-4879-55706-0787.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3698/spec-3698-55501-0170.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3698/spec-3698-55501-0022.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7281/spec-7281-57007-0214.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5476/spec-5476-55986-0802.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5201/spec-5201-55832-0394.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6482/spec-6482-56358-0548.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3694/spec-3694-55209-0836.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3694/spec-3694-55209-0896.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5157/spec-5157-55923-0392.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6452/spec-6452-56366-0766.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4484/spec-4484-55565-0254.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6040/spec-6040-56101-0954.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4980/spec-4980-56048-0120.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3986/spec-3986-55329-0388.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6438/spec-6438-56367-0137.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5040/spec-5040-56243-0256.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6513/spec-6513-56543-0359.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3822/spec-3822-55544-0904.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5046/spec-5046-56243-0250.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4885/spec-4885-55735-0626.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6451/spec-6451-56358-0006.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6448/spec-6448-56365-0366.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3926/spec-3926-55327-0864.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3926/spec-3926-55327-0738.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3926/spec-3926-55327-0479.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5482/spec-5482-56017-0690.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3986/spec-3986-55329-0824.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6474/spec-6474-56362-0920.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3845/spec-3845-55323-0310.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5962/spec-5962-56265-0391.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5972/spec-5972-56334-0116.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5209/spec-5209-56002-0368.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4648/spec-4648-55673-0346.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8874/spec-8874-57426-0176.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4615/spec-4615-55618-0680.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3974/spec-3974-55320-0362.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4422/spec-4422-55533-0444.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5335/spec-5335-56013-0472.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5484/spec-5484-56039-0478.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5484/spec-5484-56039-0426.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6042/spec-6042-56101-0192.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6042/spec-6042-56101-0786.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4038/spec-4038-55363-0202.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6442/spec-6442-56369-0344.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6143/spec-6143-56267-0047.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5204/spec-5204-56036-0976.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5978/spec-5978-56073-0567.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5168/spec-5168-56035-0064.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5168/spec-5168-56035-0060.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3844/spec-3844-55321-0176.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3845/spec-3845-55323-0488.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5050/spec-5050-56215-0804.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8846/spec-8846-57428-0134.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4878/spec-4878-55710-0759.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6517/spec-6517-56563-0336.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3977/spec-3977-55335-0612.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7856/spec-7856-57260-0377.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6402/spec-6402-56334-0920.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6483/spec-6483-56341-0442.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8874/spec-8874-57426-0599.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8874/spec-8874-57426-0594.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8198/spec-8198-57374-0852.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5712/spec-5712-56602-0723.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8198/spec-8198-57374-0210.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5882/spec-5882-56029-0802.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5785/spec-5785-56269-0170.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4535/spec-4535-55860-0039.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4535/spec-4535-55860-0036.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4535/spec-4535-55860-0842.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4534/spec-4534-55863-0248.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5475/spec-5475-56011-0394.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3651/spec-3651-55247-0499.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7049/spec-7049-56570-0594.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5204/spec-5204-56036-0626.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4901/spec-4901-55711-0032.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7838/spec-7838-56958-0623.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7454/spec-7454-56751-0399.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7375/spec-7375-56981-0058.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5151/spec-5151-56567-0200.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3974/spec-3974-55320-0560.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4196/spec-4196-55478-0444.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6267/spec-6267-56279-0374.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6444/spec-6444-56339-0732.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5893/spec-5893-56034-0258.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4901/spec-4901-55711-0732.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4901/spec-4901-55711-0852.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3819/spec-3819-55540-0426.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3779/spec-3779-55222-0062.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3779/spec-3779-55222-0090.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6730/spec-6730-56425-0242.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6033/spec-6033-56069-0502.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7516/spec-7516-56782-0780.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6305/spec-6305-56563-0074.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6305/spec-6305-56563-0049.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5479/spec-5479-56016-0600.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4070/spec-4070-55681-0450.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6161/spec-6161-56238-0352.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6161/spec-6161-56238-0232.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4035/spec-4035-55383-0132.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6501/spec-6501-56563-0316.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7447/spec-7447-56746-0625.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6501/spec-6501-56563-0406.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3779/spec-3779-55222-0306.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5045/spec-5045-56181-0280.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4631/spec-4631-55617-0696.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4071/spec-4071-55660-0186.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4626/spec-4626-55647-0396.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4195/spec-4195-55452-0266.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7256/spec-7256-56658-0169.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6518/spec-6518-56567-0920.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5156/spec-5156-55925-0222.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7277/spec-7277-56748-0154.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5156/spec-5156-55925-0725.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6601/spec-6601-56335-0094.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6459/spec-6459-56273-0006.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6458/spec-6458-56274-0618.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6518/spec-6518-56567-0796.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3878/spec-3878-55361-0654.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5861/spec-5861-56069-0660.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4847/spec-4847-55931-0411.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3972/spec-3972-55589-0042.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5462/spec-5462-55978-0886.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5371/spec-5371-55976-0258.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4035/spec-4035-55383-0998.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4718/spec-4718-56014-0304.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4035/spec-4035-55383-0394.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4035/spec-4035-55383-0436.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8819/spec-8819-57450-0284.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6145/spec-6145-56266-0384.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3878/spec-3878-55361-0822.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4617/spec-4617-55617-0582.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5062/spec-5062-55803-0385.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4231/spec-4231-55444-0824.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5174/spec-5174-56047-0288.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5145/spec-5145-55835-0466.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5310/spec-5310-55983-0560.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6513/spec-6513-56543-0918.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5998/spec-5998-56087-0168.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5963/spec-5963-56191-0750.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5351/spec-5351-55952-0326.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4621/spec-4621-55649-0456.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4621/spec-4621-55649-0696.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3968/spec-3968-55590-0358.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6463/spec-6463-56340-0662.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3878/spec-3878-55361-0588.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4035/spec-4035-55383-0918.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4750/spec-4750-55630-0696.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4035/spec-4035-55383-0874.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5312/spec-5312-56001-0472.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4651/spec-4651-56008-0608.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6513/spec-6513-56543-0788.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5041/spec-5041-55749-0158.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3694/spec-3694-55209-0748.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5460/spec-5460-56000-0020.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6430/spec-6430-56299-0388.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3869/spec-3869-55273-0250.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5307/spec-5307-55998-0066.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5196/spec-5196-55831-0244.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6323/spec-6323-56189-0904.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6321/spec-6321-56449-0646.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6153/spec-6153-56164-0216.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5732/spec-5732-56326-0786.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7295/spec-7295-57067-0268.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4406/spec-4406-55858-0876.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5168/spec-5168-56035-0732.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5174/spec-5174-56047-0107.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4615/spec-4615-55618-0937.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3968/spec-3968-55590-0920.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7614/spec-7614-57307-0326.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4072/spec-4072-55362-0045.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5196/spec-5196-55831-0146.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6594/spec-6594-56272-0092.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4066/spec-4066-55444-0598.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3983/spec-3983-55603-0800.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4653/spec-4653-55622-0616.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4227/spec-4227-55481-0937.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8866/spec-8866-57457-0108.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8866/spec-8866-57457-0123.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3965/spec-3965-55302-0090.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3969/spec-3969-55307-0378.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3965/spec-3965-55302-0022.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5398/spec-5398-56011-0648.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5767/spec-5767-56245-0161.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5168/spec-5168-56035-0814.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3818/spec-3818-55532-0536.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7083/spec-7083-56722-0200.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7111/spec-7111-56741-0665.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7111/spec-7111-56741-0570.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7135/spec-7135-56564-0253.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4069/spec-4069-55365-0082.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6490/spec-6490-56330-0027.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6455/spec-6455-56370-0214.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4886/spec-4886-55737-0770.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4756/spec-4756-55631-0158.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5196/spec-5196-55831-0278.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4066/spec-4066-55444-0630.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5995/spec-5995-56093-0686.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3965/spec-3965-55302-0982.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5975/spec-5975-56334-0862.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4876/spec-4876-55679-0652.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4875/spec-4875-55677-0130.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7167/spec-7167-56604-0376.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5794/spec-5794-56282-0066.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6455/spec-6455-56370-0656.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3818/spec-3818-55532-0790.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3818/spec-3818-55532-0826.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5337/spec-5337-55987-0493.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5167/spec-5167-56066-0598.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5167/spec-5167-56066-0348.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5166/spec-5166-56065-0046.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5167/spec-5167-56066-0342.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6508/spec-6508-56535-0732.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4075/spec-4075-55352-0101.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7129/spec-7129-56569-0871.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6018/spec-6018-56067-0688.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5998/spec-5998-56087-0936.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5998/spec-5998-56087-0064.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5206/spec-5206-56033-0479.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4193/spec-4193-55476-0842.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3969/spec-3969-55307-0158.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3973/spec-3973-55323-0590.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5317/spec-5317-56000-0506.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5725/spec-5725-56625-0032.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3609/spec-3609-55201-0385.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7834/spec-7834-56979-0844.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4405/spec-4405-55854-0714.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6153/spec-6153-56164-0054.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3972/spec-3972-55589-0080.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4495/spec-4495-55566-0293.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6018/spec-6018-56067-0836.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4075/spec-4075-55352-0062.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6320/spec-6320-56453-0840.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3813/spec-3813-55532-0074.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4698/spec-4698-55623-0154.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7142/spec-7142-56567-0204.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3922/spec-3922-55333-0921.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4072/spec-4072-55362-0516.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4456/spec-4456-55537-0555.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8494/spec-8494-57104-0423.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4075/spec-4075-55352-0802.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5153/spec-5153-56577-0528.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7373/spec-7373-56990-0472.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6166/spec-6166-56181-0540.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5036/spec-5036-55751-0213.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5719/spec-5719-56014-0896.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3873/spec-3873-55277-0414.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5800/spec-5800-56279-0880.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5800/spec-5800-56279-0870.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4194/spec-4194-55450-0694.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3606/spec-3606-55182-0751.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4271/spec-4271-55507-0460.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6603/spec-6603-56567-0422.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6477/spec-6477-56365-0982.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8494/spec-8494-57104-0683.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8494/spec-8494-57104-0648.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3969/spec-3969-55307-0874.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6428/spec-6428-56279-0282.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6428/spec-6428-56279-0174.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5995/spec-5995-56093-0958.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5813/spec-5813-56363-0666.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5733/spec-5733-56575-0018.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4766/spec-4766-55677-0262.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4412/spec-4412-55912-0620.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4412/spec-4412-55912-0396.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3867/spec-3867-55652-0216.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5480/spec-5480-56001-0352.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5480/spec-5480-56001-0116.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3970/spec-3970-55591-0129.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5416/spec-5416-56002-0971.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6598/spec-6598-56574-0392.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4708/spec-4708-55704-0430.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5799/spec-5799-56325-0095.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4050/spec-4050-55599-0634.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4050/spec-4050-55599-0517.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7864/spec-7864-56979-0391.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4218/spec-4218-55479-0010.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4219/spec-4219-55480-0580.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3816/spec-3816-55272-0648.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3816/spec-3816-55272-0684.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3814/spec-3814-55535-0008.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7447/spec-7447-56746-0814.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4703/spec-4703-55617-0438.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6142/spec-6142-56219-0001.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6148/spec-6148-56209-0558.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6143/spec-6143-56267-0280.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6143/spec-6143-56267-0932.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6598/spec-6598-56574-0659.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4065/spec-4065-55368-0194.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4534/spec-4534-55863-0466.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6152/spec-6152-56164-0240.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6152/spec-6152-56164-0030.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4494/spec-4494-55569-0616.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4724/spec-4724-55742-0924.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7576/spec-7576-56948-0399.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3814/spec-3814-55535-0950.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4749/spec-4749-55633-0722.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8390/spec-8390-57485-0443.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3866/spec-3866-55623-0120.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5068/spec-5068-55749-0860.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5156/spec-5156-55925-0786.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5156/spec-5156-55925-0850.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3978/spec-3978-55330-0242.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5369/spec-5369-56272-0740.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5366/spec-5366-55958-0181.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3923/spec-3923-55325-0124.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6002/spec-6002-56104-0590.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5483/spec-5483-56017-0257.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5483/spec-5483-56017-0375.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3924/spec-3924-55332-0332.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7141/spec-7141-56565-0173.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6507/spec-6507-56478-0622.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6280/spec-6280-56570-0242.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6601/spec-6601-56335-0941.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5969/spec-5969-56069-0888.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3822/spec-3822-55544-0604.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3866/spec-3866-55623-0680.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3866/spec-3866-55623-0614.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4495/spec-4495-55566-0838.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4490/spec-4490-55629-0218.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4732/spec-4732-55648-0270.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6589/spec-6589-56536-0332.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6591/spec-6591-56535-0192.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6671/spec-6671-56388-0074.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6800/spec-6800-56399-0136.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6711/spec-6711-56388-0702.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6604/spec-6604-56337-0480.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5976/spec-5976-56356-0234.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7184/spec-7184-56629-0676.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4733/spec-4733-55649-0266.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3923/spec-3923-55325-0206.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4901/spec-4901-55711-0866.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4807/spec-4807-55687-0466.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7280/spec-7280-56709-0082.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6003/spec-6003-56311-0258.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6146/spec-6146-56265-0566.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6146/spec-6146-56265-0787.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5481/spec-5481-55983-0898.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6800/spec-6800-56399-0144.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4497/spec-4497-55564-0806.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6740/spec-6740-56401-0222.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4495/spec-4495-55566-0505.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4799/spec-4799-55656-0236.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4305/spec-4305-55509-0609.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6681/spec-6681-56419-0135.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7254/spec-7254-56625-0153.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3863/spec-3863-55280-0138.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4319/spec-4319-55507-0298.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3978/spec-3978-55330-0924.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5008/spec-5008-55744-0698.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3817/spec-3817-55277-0710.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3817/spec-3817-55277-0846.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5404/spec-5404-56013-0525.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4466/spec-4466-55857-0799.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4974/spec-4974-56038-0506.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6003/spec-6003-56311-0400.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6717/spec-6717-56397-0721.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6638/spec-6638-56370-0432.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5293/spec-5293-55953-0236.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6630/spec-6630-56358-0602.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6280/spec-6280-56570-0991.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6280/spec-6280-56570-0042.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4973/spec-4973-56042-0409.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4235/spec-4235-55451-0850.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7833/spec-7833-57286-0166.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7374/spec-7374-56751-0914.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4238/spec-4238-55455-0226.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4239/spec-4239-55458-0274.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3745/spec-3745-55234-0465.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4238/spec-4238-55455-0438.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5996/spec-5996-56096-0390.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5344/spec-5344-55924-0684.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5346/spec-5346-55955-0004.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4190/spec-4190-55686-0230.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7254/spec-7254-56625-0858.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4772/spec-4772-55654-0128.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6738/spec-6738-56424-0870.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4731/spec-4731-55656-0974.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4070/spec-4070-55681-0148.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6280/spec-6280-56570-0912.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7626/spec-7626-56934-0370.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3862/spec-3862-55276-0891.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6000/spec-6000-56102-0278.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5293/spec-5293-55953-0650.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4995/spec-4995-55739-0250.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6058/spec-6058-56090-0496.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5708/spec-5708-56605-0917.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4058/spec-4058-55358-0665.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6782/spec-6782-56576-0225.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3650/spec-3650-55244-0222.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3650/spec-3650-55244-0046.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6112/spec-6112-56191-0870.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5715/spec-5715-56657-0288.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5729/spec-5729-56598-0192.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7694/spec-7694-57359-0174.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6739/spec-6739-56393-0814.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6676/spec-6676-56389-0732.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8219/spec-8219-57429-0282.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6688/spec-6688-56412-0156.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8229/spec-8229-57430-0090.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4995/spec-4995-55739-0222.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4713/spec-4713-56044-0844.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5847/spec-5847-56037-0908.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7445/spec-7445-56720-0047.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7445/spec-7445-56720-0053.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8192/spec-8192-57348-0937.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4319/spec-4319-55507-0905.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6740/spec-6740-56401-0976.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6740/spec-6740-56401-0888.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8872/spec-8872-57422-0868.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8229/spec-8229-57430-0886.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4768/spec-4768-55944-0104.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5974/spec-5974-56314-0382.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4953/spec-4953-55749-0483.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4707/spec-4707-55653-0816.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6801/spec-6801-56487-0992.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6797/spec-6797-56426-0678.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8846/spec-8846-57428-0724.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6740/spec-6740-56401-0664.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4458/spec-4458-55536-0542.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4459/spec-4459-55533-0772.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3855/spec-3855-55268-0094.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7256/spec-7256-56658-0740.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4976/spec-4976-56046-0260.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6682/spec-6682-56390-0766.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8228/spec-8228-57423-0932.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8219/spec-8219-57429-0552.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8219/spec-8219-57429-0514.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6641/spec-6641-56383-0688.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3590/spec-3590-55201-0726.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8193/spec-8193-57333-0674.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8865/spec-8865-57426-0458.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5171/spec-5171-56038-0886.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6801/spec-6801-56487-0446.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7083/spec-7083-56722-0782.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7105/spec-7105-56740-0666.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4219/spec-4219-55480-0718.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6622/spec-6622-56365-0618.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6006/spec-6006-56105-0212.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6005/spec-6005-56090-0670.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6002/spec-6002-56104-0980.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6156/spec-6156-56239-0834.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5300/spec-5300-55982-0366.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5298/spec-5298-55979-0548.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5009/spec-5009-55707-0838.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6641/spec-6641-56383-0560.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4989/spec-4989-56069-0084.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6053/spec-6053-56091-0449.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5166/spec-5166-56065-0666.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4964/spec-4964-55749-0704.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6803/spec-6803-56402-0114.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4653/spec-4653-55622-0412.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4239/spec-4239-55458-0560.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8410/spec-8410-57481-0242.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6314/spec-6314-56191-0550.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6313/spec-6313-56460-0299.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4459/spec-4459-55533-0598.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8388/spec-8388-57488-0734.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4702/spec-4702-55618-0958.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4956/spec-4956-55737-0136.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8390/spec-8390-57485-0970.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6142/spec-6142-56219-0102.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5120/spec-5120-55895-0470.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6837/spec-6837-56442-0350.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6716/spec-6716-56401-0210.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6723/spec-6723-56428-0931.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5375/spec-5375-55973-0298.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5191/spec-5191-56065-0536.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5113/spec-5113-55924-0232.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3859/spec-3859-55246-0098.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4992/spec-4992-55723-0974.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5973/spec-5973-56067-0432.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3928/spec-3928-55331-0569.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3934/spec-3934-55336-0988.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4410/spec-4410-56187-0812.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4456/spec-4456-55537-0012.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6316/spec-6316-56483-0713.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6313/spec-6313-56460-0538.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5003/spec-5003-55715-0790.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7039/spec-7039-56572-0886.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6803/spec-6803-56402-0120.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6803/spec-6803-56402-0862.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5200/spec-5200-56091-0804.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6159/spec-6159-56214-0101.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6006/spec-6006-56105-0278.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6006/spec-6006-56105-0274.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6006/spec-6006-56105-0348.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8390/spec-8390-57485-0621.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6635/spec-6635-56370-0334.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4611/spec-4611-55603-0883.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6716/spec-6716-56401-0928.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6623/spec-6623-56367-0571.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6061/spec-6061-56076-0311.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6061/spec-6061-56076-0860.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3976/spec-3976-55302-0638.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4855/spec-4855-55926-0376.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4726/spec-4726-55712-0064.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3689/spec-3689-55180-0826.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3689/spec-3689-55180-0880.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4714/spec-4714-56041-0236.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3859/spec-3859-55246-0228.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7114/spec-7114-56748-0973.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5134/spec-5134-55868-0352.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6754/spec-6754-56414-0918.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6758/spec-6758-56415-0375.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5976/spec-5976-56356-0818.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8410/spec-8410-57481-0609.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5290/spec-5290-55862-0042.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5707/spec-5707-56269-0670.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5057/spec-5057-56209-0038.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5057/spec-5057-56209-0072.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7822/spec-7822-57041-0636.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4240/spec-4240-55455-1000.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4850/spec-4850-55929-0394.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6052/spec-6052-56092-0182.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3587/spec-3587-55182-0154.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6758/spec-6758-56415-0914.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6795/spec-6795-56425-0574.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6712/spec-6712-56421-0728.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4372/spec-4372-55541-0326.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8380/spec-8380-57520-0270.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4743/spec-4743-55645-0657.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6709/spec-6709-56429-0074.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4855/spec-4855-55926-0986.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5198/spec-5198-55823-0844.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6625/spec-6625-56386-0556.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7409/spec-7409-56809-0304.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4704/spec-4704-55681-0692.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4706/spec-4706-55705-0506.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5189/spec-5189-56074-0945.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5010/spec-5010-55748-0922.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5157/spec-5157-55923-0276.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4451/spec-4451-55537-0318.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6144/spec-6144-56237-0658.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6009/spec-6009-56313-0104.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4855/spec-4855-55926-0712.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6828/spec-6828-56430-0280.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6828/spec-6828-56430-0780.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4713/spec-4713-56044-0230.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5199/spec-5199-56067-0650.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8195/spec-8195-57391-0008.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5043/spec-5043-56187-0705.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6142/spec-6142-56219-0274.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4726/spec-4726-55712-0632.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5719/spec-5719-56014-0524.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5057/spec-5057-56209-0276.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5198/spec-5198-55823-0511.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6748/spec-6748-56371-0312.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4174/spec-4174-55659-0686.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5707/spec-5707-56269-0565.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6831/spec-6831-56426-0940.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5195/spec-5195-56048-0320.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5002/spec-5002-55710-0106.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6142/spec-6142-56219-0534.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4190/spec-4190-55686-0384.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6044/spec-6044-56090-0072.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6045/spec-6045-56072-0782.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7256/spec-7256-56658-0783.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6310/spec-6310-56455-0758.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6310/spec-6310-56455-0723.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3858/spec-3858-55273-0420.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3590/spec-3590-55201-0904.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4224/spec-4224-55481-0588.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5057/spec-5057-56209-0428.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5042/spec-5042-55856-0642.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5037/spec-5037-55823-0248.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3825/spec-3825-55533-0980.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5005/spec-5005-55751-0254.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5005/spec-5005-55751-0052.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6831/spec-6831-56426-0031.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6748/spec-6748-56371-0838.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7407/spec-7407-56772-0620.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5002/spec-5002-55710-0383.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4612/spec-4612-55590-0838.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5720/spec-5720-56602-0668.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5010/spec-5010-55748-0672.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8375/spec-8375-57520-0157.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7416/spec-7416-56810-0414.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6628/spec-6628-56366-0692.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6495/spec-6495-56339-0886.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6495/spec-6495-56339-0932.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4989/spec-4989-55743-0340.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5193/spec-5193-56066-0602.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5190/spec-5190-56077-0215.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5005/spec-5005-55751-0062.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5111/spec-5111-55840-0698.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6177/spec-6177-56268-0907.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6177/spec-6177-56268-0870.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6177/spec-6177-56268-0224.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6112/spec-6112-56191-0532.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6059/spec-6059-56093-0120.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6744/spec-6744-56399-0490.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6744/spec-6744-56399-0492.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4218/spec-4218-55479-0940.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7864/spec-7864-56979-0804.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4399/spec-4399-55811-0005.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5114/spec-5114-55883-0410.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5292/spec-5292-55926-0402.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5292/spec-5292-55926-0376.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5187/spec-5187-56074-0446.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6789/spec-6789-56401-0885.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6789/spec-6789-56401-0730.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4989/spec-4989-56069-0394.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6494/spec-6494-56363-0100.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6836/spec-6836-56443-0642.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6829/spec-6829-56453-0404.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5057/spec-5057-56209-0944.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7255/spec-7255-56597-0541.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4242/spec-4242-55476-0913.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6060/spec-6060-56074-0706.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7428/spec-7428-56781-0579.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7429/spec-7429-56740-0836.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6749/spec-6749-56370-0470.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7429/spec-7429-56740-0970.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5109/spec-5109-55892-0091.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5108/spec-5108-55888-0807.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5108/spec-5108-55888-0892.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5193/spec-5193-56066-0860.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5005/spec-5005-55751-0452.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6410/spec-6410-56336-0584.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4956/spec-4956-55737-0636.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4960/spec-4960-55747-0224.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6318/spec-6318-56186-0044.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6030/spec-6030-56097-0830.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6404/spec-6404-56330-0824.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5148/spec-5148-56220-0184.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6829/spec-6829-56453-0858.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3755/spec-3755-55504-0696.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3753/spec-3753-55486-0058.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5126/spec-5126-55923-0540.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4373/spec-4373-55811-0848.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6621/spec-6621-56366-0882.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5297/spec-5297-55913-0140.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6027/spec-6027-56103-0652.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7283/spec-7283-57063-0481.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7283/spec-7283-57063-0690.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7286/spec-7286-57096-0970.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7286/spec-7286-57096-0962.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5112/spec-5112-55895-0140.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6743/spec-6743-56385-0560.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6061/spec-6061-56076-0398.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6037/spec-6037-56104-0084.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7111/spec-7111-56741-0676.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6148/spec-6148-56209-0820.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7114/spec-7114-56748-0506.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7114/spec-7114-56748-0716.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6840/spec-6840-56685-0056.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3756/spec-3756-55505-0278.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7416/spec-7416-56810-0509.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5192/spec-5192-56066-0906.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6052/spec-6052-56092-0454.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6309/spec-6309-56485-0342.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6312/spec-6312-56487-0430.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5005/spec-5005-55751-0856.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7408/spec-7408-56780-0589.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5301/spec-5301-55987-0376.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7845/spec-7845-56980-0941.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4961/spec-4961-55719-0434.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5112/spec-5112-55895-0726.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5112/spec-5112-55895-0838.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5112/spec-5112-55895-0796.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5715/spec-5715-56657-0715.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6967/spec-6967-56447-0436.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6967/spec-6967-56447-0292.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7117/spec-7117-56685-0376.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6829/spec-6829-56453-0550.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6037/spec-6037-56106-0170.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7087/spec-7087-56637-0800.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4309/spec-4309-55528-0231.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5005/spec-5005-55751-0724.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5292/spec-5292-55926-0186.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6319/spec-6319-56452-0234.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6027/spec-6027-56103-0970.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6027/spec-6027-56103-0888.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6409/spec-6409-56306-0588.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5190/spec-5190-56077-0856.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6312/spec-6312-56487-0536.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3854/spec-3854-55247-0730.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5060/spec-5060-56181-0059.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6418/spec-6418-56354-0985.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5709/spec-5709-56571-0108.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8193/spec-8193-57333-0684.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3588/spec-3588-55184-0700.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3588/spec-3588-55184-0513.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3589/spec-3589-55186-0514.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3587/spec-3587-55182-0916.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7822/spec-7822-57041-0748.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7850/spec-7850-56956-0719.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7850/spec-7850-56956-0688.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4056/spec-4056-55357-0916.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4056/spec-4056-55357-0734.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4989/spec-4989-56069-0226.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4180/spec-4180-55679-0384.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4456/spec-4456-55537-0826.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7419/spec-7419-56811-0577.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6045/spec-6045-56072-0836.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6063/spec-6063-56098-0298.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7082/spec-7082-56713-0142.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6753/spec-6753-56399-0494.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5709/spec-5709-56571-0646.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6056/spec-6056-56092-0904.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4712/spec-4712-55738-0164.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4063/spec-4063-55364-0684.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4743/spec-4743-55645-0753.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4063/spec-4063-55364-0316.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6043/spec-6043-56096-0380.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7636/spec-7636-56989-0171.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5714/spec-5714-56660-0144.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5713/spec-5713-56686-0784.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7376/spec-7376-56749-0370.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4528/spec-4528-55559-0932.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4998/spec-4998-55722-0366.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4185/spec-4185-55469-0040.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4180/spec-4180-55679-0770.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4399/spec-4399-55811-0940.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6673/spec-6673-56419-0344.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4953/spec-4953-55749-0732.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5175/spec-5175-55955-0054.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6670/spec-6670-56389-0642.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6670/spec-6670-56389-0686.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6675/spec-6675-56415-0080.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8864/spec-8864-57428-0333.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3965/spec-3965-55302-0402.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3965/spec-3965-55302-0298.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6131/spec-6131-56211-0070.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6736/spec-6736-56366-0466.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4184/spec-4184-55450-0058.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4184/spec-4184-55450-0151.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5002/spec-5002-55710-0947.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3735/spec-3735-55209-0824.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3736/spec-3736-55214-0706.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4180/spec-4180-55679-0710.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8495/spec-8495-57481-0360.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4452/spec-4452-55536-0875.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6968/spec-6968-56443-0486.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7413/spec-7413-56769-0552.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4231/spec-4231-55444-0054.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6318/spec-6318-56186-0926.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6806/spec-6806-56419-0280.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6162/spec-6162-56191-0289.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3852/spec-3852-55243-0048.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3852/spec-3852-55243-0188.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7870/spec-7870-57016-0627.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4184/spec-4184-55450-0844.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4184/spec-4184-55450-0804.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8835/spec-8835-57427-0301.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5708/spec-5708-56605-0134.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5708/spec-5708-56605-0162.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6968/spec-6968-56443-0588.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6315/spec-6315-56181-0130.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6753/spec-6753-56399-0932.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7411/spec-7411-56776-0941.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4998/spec-4998-55722-0620.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4998/spec-4998-55722-0518.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6043/spec-6043-56096-0918.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5188/spec-5188-55803-0122.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6640/spec-6640-56385-0532.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6806/spec-6806-56419-0614.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7874/spec-7874-57279-0423.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6674/spec-6674-56416-0868.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7254/spec-7254-56625-0517.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6423/spec-6423-56313-0104.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3735/spec-3735-55209-0068.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4226/spec-4226-55475-0310.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3736/spec-3736-55214-0344.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5202/spec-5202-55824-0586.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5202/spec-5202-55824-0633.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6405/spec-6405-56342-0268.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5002/spec-5002-55710-0762.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7862/spec-7862-56984-0808.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4216/spec-4216-55477-0200.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6982/spec-6982-56444-0267.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4984/spec-4984-55827-0408.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7106/spec-7106-56663-0100.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4265/spec-4265-55505-0808.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8406/spec-8406-57513-0124.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4186/spec-4186-55691-0166.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4182/spec-4182-55446-0644.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6158/spec-6158-56239-0092.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6034/spec-6034-56103-0660.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4073/spec-4073-55663-0343.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4056/spec-4056-55357-0704.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3967/spec-3967-55704-0688.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4998/spec-4998-55722-0748.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5318/spec-5318-55983-0870.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5320/spec-5320-55999-0446.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7604/spec-7604-56947-0100.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6062/spec-6062-56091-0270.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5150/spec-5150-56329-0234.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5728/spec-5728-56334-0839.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6673/spec-6673-56419-0284.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4646/spec-4646-55622-0940.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4983/spec-4983-55836-0891.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7447/spec-7447-56746-0198.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6754/spec-6754-56414-0468.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6672/spec-6672-56386-0945.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6140/spec-6140-56189-0288.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5169/spec-5169-56045-0998.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8504/spec-8504-57518-0414.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6029/spec-6029-56099-0862.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6143/spec-6143-56267-0678.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6632/spec-6632-56366-0859.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3970/spec-3970-55591-0354.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3970/spec-3970-55591-0414.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4425/spec-4425-55864-0091.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4955/spec-4955-55750-0572.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4064/spec-4064-55366-0510.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4187/spec-4187-55693-0822.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4187/spec-4187-55693-0828.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6064/spec-6064-56097-0964.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6064/spec-6064-56097-0922.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3987/spec-3987-55590-0974.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6673/spec-6673-56419-0608.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4984/spec-4984-55827-0040.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7445/spec-7445-56720-0597.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5328/spec-5328-55982-0790.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8223/spec-8223-57429-0185.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8223/spec-8223-57429-0074.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5152/spec-5152-56010-0836.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3823/spec-3823-55534-0662.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6314/spec-6314-56191-0318.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6491/spec-6491-56337-0828.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6747/spec-6747-56388-0622.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6746/spec-6746-56386-0984.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5188/spec-5188-55803-0358.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4955/spec-4955-55750-0854.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6038/spec-6038-56090-0135.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6323/spec-6323-56189-0240.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4984/spec-4984-55827-0158.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6679/spec-6679-56401-0600.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8218/spec-8218-57519-0521.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7254/spec-7254-56625-0541.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7426/spec-7426-56771-0557.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4998/spec-4998-55722-0536.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8847/spec-8847-57429-0412.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4189/spec-4189-55679-0974.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4189/spec-4189-55679-0968.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4061/spec-4061-55362-0248.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4064/spec-4064-55366-0568.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8222/spec-8222-57431-0148.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4220/spec-4220-55447-0270.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7866/spec-7866-57002-0898.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6038/spec-6038-56090-0888.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5191/spec-5191-56065-0216.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5191/spec-5191-56065-0038.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3782/spec-3782-55244-0146.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3782/spec-3782-55244-0030.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3768/spec-3768-55564-0377.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3782/spec-3782-55244-0054.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6322/spec-6322-56190-0896.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6318/spec-6318-56186-0436.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6318/spec-6318-56186-0348.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6318/spec-6318-56186-0724.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5960/spec-5960-56097-0964.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5964/spec-5964-56098-0187.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6412/spec-6412-56358-0104.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6412/spec-6412-56358-0485.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5709/spec-5709-56571-0284.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6630/spec-6630-56358-0456.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6749/spec-6749-56370-0094.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7428/spec-7428-56781-0851.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6750/spec-6750-56367-0468.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6629/spec-6629-56365-0652.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6749/spec-6749-56370-0042.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4060/spec-4060-55359-0130.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3767/spec-3767-55214-0006.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3767/spec-3767-55214-0144.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4186/spec-4186-55691-0432.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4367/spec-4367-55566-0260.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4367/spec-4367-55566-0472.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6982/spec-6982-56444-0864.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6974/spec-6974-56442-0376.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6974/spec-6974-56442-0174.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6185/spec-6185-56217-0206.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6184/spec-6184-56267-0794.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6185/spec-6185-56217-0260.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6680/spec-6680-56420-0590.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6744/spec-6744-56399-0345.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8056/spec-8056-57186-0499.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4994/spec-4994-55739-0148.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4705/spec-4705-55705-0420.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3782/spec-3782-55244-0702.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5728/spec-5728-56334-0161.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5729/spec-5729-56598-0586.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3782/spec-3782-55244-0982.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5188/spec-5188-55803-0996.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3832/spec-3832-55289-0891.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8209/spec-8209-57427-0402.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6740/spec-6740-56401-0202.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4994/spec-4994-55739-0426.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5709/spec-5709-56571-0978.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3782/spec-3782-55244-0745.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4996/spec-4996-55720-0022.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5154/spec-5154-55864-0418.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7279/spec-7279-57071-0367.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/8840/spec-8840-57425-0592.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6314/spec-6314-56191-0112.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6314/spec-6314-56191-0074.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3735/spec-3735-55209-0666.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/3590/spec-3590-55201-0182.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/4225/spec-4225-55455-0510.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6633/spec-6633-56369-0268.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6582/spec-6582-56274-0031.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6311/spec-6311-56447-0456.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7082/spec-7082-56713-0894.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7082/spec-7082-56713-0192.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/6311/spec-6311-56447-0264.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/5339/spec-5339-55922-0936.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7034/spec-7034-56564-0039.fits
+wget -P /datascope/menard/group/scheng/Gaia/WD_spectra_boss/ -nc https://data.sdss.org/sas/dr14/sdss/spectro/redux/v5_10_0/spectra/lite/7034/spec-7034-56564-0098.fits
